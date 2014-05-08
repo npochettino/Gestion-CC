@@ -1,0 +1,1388 @@
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Presentacion\obj\Debug\Presentacion.Principal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.Login.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.Principal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.Principal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\CtaCte\Presentacion\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.Principal.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Datos.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCte\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Datos.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Datos.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReporteVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReporteVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Presentacion\obj\Debug\Presentacion.FormABMMarcas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMMarcas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMMarcas.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMMarcas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.05\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormABMMarcas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.08\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.1\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\PC\Dropbox\Sinergia\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\Dropbox\Sinergia\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\Dropbox\Sinergia\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Nicolas\Dropbox\Sinergia\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Nicolas\Dropbox\Sinergia\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Nicolas\Dropbox\Sinergia\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.3\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Presentacion\obj\Debug\Presentacion.FormAcercaDe.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormAcercaDe.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.5\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormAcercaDe.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.6\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\PC\Desktop\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\Martin\Dropbox\SempaIT\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\PC\Dropbox\Sinergia\Sistemas\CtaCteV2.7\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\Dropbox\Sinergia\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\Dropbox\Sinergia\Sistemas\CtaCteV2.7\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.1\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7 y medio\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReporteGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReporteDeGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\obj\Debug\Presentacion.FormABMIngresosEgresos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.exe.config
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Ayuda.chm
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Negocio.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Negocio.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Clientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMIngresosEgresos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDeGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.LogIn.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe.licenses
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.exe.config
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.pdb
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Ayuda.chm
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.exe
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.pdb
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Negocio.dll
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Datos.dll
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Negocio.pdb
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\bin\Debug\Datos.pdb
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Clientes.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMIngresosEgresos.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDeGastos.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.LogIn.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe.licenses

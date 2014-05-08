@@ -1,0 +1,123 @@
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\CtaCte\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC\CtaCte\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCte\Datos\obj\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCte\Datos\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCte\Datos\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCte\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCte\Datos\obj\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCte\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)00\CtaCte\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Version Leo)\CtaCte\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC(Trabajo Local 01)\CtaCte\Datos\obj\Debug\Datos.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Datos\bin\Debug\Datos.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Datos\bin\Debug\Datos.pdb
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Datos\obj\Debug\Datos.dll
+C:\Users\Public\Documents\GestionCC\GestionCC\CtaCteV1.00\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Datos\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.02\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.04\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCteV1.05\Datos\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV1.05\Datos\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCteV1.05\Datos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCteV1.05\Datos\obj\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV1.05\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Testeo\CtaCteV1.06\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.07\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.09\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.0\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.2\Datos\obj\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Datos\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Datos\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Datos\obj\Debug\Datos.dll
+C:\Users\Martin\Dropbox\Sinergia\ArmeniaBoutique(En Proceso)\Codigo\CtaCteV2.2\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Datos\obj\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Datos\bin\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Datos\bin\Debug\Datos.pdb
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Datos\obj\Debug\Datos.dll
+C:\Users\Martin\Dropbox\SempaIT\ArmeniaBoutique(OK)\Codigo\CtaCteV2.4\Datos\obj\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCteV2.7\Datos\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV2.7\Datos\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCteV2.7\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCteV2.7\Datos\obj\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV2.7\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.2\Datos\obj\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Datos\bin\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Datos\bin\Debug\Datos.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Datos\obj\Debug\Datos.dll
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Datos\obj\Debug\Datos.pdb
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Datos\bin\Debug\Datos.dll
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Datos\bin\Debug\Datos.pdb
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Datos\obj\Debug\Datos.dll
+E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Datos\obj\Debug\Datos.pdb

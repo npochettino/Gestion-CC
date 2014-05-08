@@ -1,0 +1,10 @@
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\bin\Debug\DXWindowsApplication1.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\bin\Debug\DXWindowsApplication1.pdb
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\ResolveAssemblyReference.cache
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\DXWindowsApplication1.Form1.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\DXWindowsApplication1.Properties.Resources.resources
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\GenerateResource.read.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\GenerateResource.write.1.tlog
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\DXWindowsApplication1.exe.licenses
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\DXWindowsApplication1.exe
+D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.00\DXWindowsApplication1\obj\Debug\DXWindowsApplication1.pdb
