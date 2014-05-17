@@ -42,7 +42,7 @@ namespace Datos
 
         }
 
-        public void AgregarVenta(int idCliente, DateTime DtmFechaVenta, string strFormaPago)
+        public void AgregarVenta(int idCliente, DateTime DtmFechaVenta, string strFormaPago,float Efectivo,float Cheque,float Tarjeta,float CuentaCorriente)
         {
             int Id_Venta=0;
             float fltImportaTotalVenta = 0;

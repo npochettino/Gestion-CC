@@ -75,6 +75,7 @@
             this.rdbEfectivo = new System.Windows.Forms.RadioButton();
             this.rdbTarjeta = new System.Windows.Forms.RadioButton();
             this.rdbCheque = new System.Windows.Forms.RadioButton();
+            this.rdbCombinado = new System.Windows.Forms.RadioButton();
             this.tableLayoutPanel9 = new System.Windows.Forms.TableLayoutPanel();
             this.lblCliente = new System.Windows.Forms.Label();
             this.lblNombreCliente = new System.Windows.Forms.Label();
@@ -561,6 +562,7 @@
             this.tableLayoutPanel7.Controls.Add(this.rdbEfectivo, 1, 0);
             this.tableLayoutPanel7.Controls.Add(this.rdbTarjeta, 2, 0);
             this.tableLayoutPanel7.Controls.Add(this.rdbCheque, 0, 1);
+            this.tableLayoutPanel7.Controls.Add(this.rdbCombinado, 1, 1);
             this.tableLayoutPanel7.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel7.Location = new System.Drawing.Point(3, 250);
             this.tableLayoutPanel7.Name = "tableLayoutPanel7";
@@ -618,6 +620,19 @@
             this.rdbCheque.TabStop = true;
             this.rdbCheque.Text = "Cheque";
             this.rdbCheque.UseVisualStyleBackColor = true;
+            // 
+            // rdbCombinado
+            // 
+            this.rdbCombinado.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.rdbCombinado.AutoSize = true;
+            this.rdbCombinado.Location = new System.Drawing.Point(126, 26);
+            this.rdbCombinado.Name = "rdbCombinado";
+            this.rdbCombinado.Size = new System.Drawing.Size(78, 17);
+            this.rdbCombinado.TabIndex = 5;
+            this.rdbCombinado.TabStop = true;
+            this.rdbCombinado.Text = "Combinado";
+            this.rdbCombinado.UseVisualStyleBackColor = true;
+            this.rdbCombinado.CheckedChanged += new System.EventHandler(this.rdbCombinado_CheckedChanged);
             // 
             // tableLayoutPanel9
             // 
@@ -917,5 +932,6 @@
         private DevExpress.XtraEditors.Repository.RepositoryItemTextEdit repositoryItemTextEdit3;
         private System.Windows.Forms.Label lblFechaVenta;
         private System.Windows.Forms.DateTimePicker dtpFechaVenta;
+        private System.Windows.Forms.RadioButton rdbCombinado;
     }
 }

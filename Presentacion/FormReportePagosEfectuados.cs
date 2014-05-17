@@ -22,9 +22,6 @@ namespace Presentacion
         private void btnEmitirReporte_Click(object sender, EventArgs e)
         {
             
-            
-            //Esta es la linea de prueba de pushh
-            
             EmitirReporte();
         }
 

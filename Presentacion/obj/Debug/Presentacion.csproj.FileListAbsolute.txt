@@ -1386,3 +1386,46 @@ E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCt
 E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
 E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
 E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Ayuda.chm
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.AcercaDe.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Clientes.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMIngresosEgresos.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDeGastos.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMGastos.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPagoCliente.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteCajaDiaria.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteVentas.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReportes.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormVentasCliente.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.frmABMArticulos.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.frmABMClientes.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FrmABMusuarios.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormReporteDeSaldos.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.LogIn.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe.licenses

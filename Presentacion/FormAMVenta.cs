@@ -18,6 +18,9 @@ namespace Presentacion
         float MontoParcial = 0;
         float ImporteTotal = 0;
 
+        float Tarjeta = 0, Cheque = 0, Efectivo = 0, CuentaCorriente = 0;
+        bool Combinado = false;
+
         
         Negocio.PagoEfectuadoNegocio CadPagoEfectuado = new Negocio.PagoEfectuadoNegocio();
         
@@ -265,7 +268,8 @@ namespace Presentacion
 
             if (rdbCtaCte.Checked == true)
             {
-                FormaPago = "CtaCte";
+                FormaPago = "Cuenta Corriente";
+                CuentaCorriente = 
             }
 
             if (rdbEfectivo.Checked == true)
@@ -285,53 +289,80 @@ namespace Presentacion
             
             }
 
+            if (rdbCheque.Checked == true)
+            {
+                FormaPago = "Cheque";
 
+            }
             
             //Primero agrego la venta en la tabla venta para luego agregar cada item venta y calcular el monto total de la venta.
 
-            CadVentas.AgregarVenta(idCliente, DtmFechaVenta, FormaPago);
+            if (VerificarMontosAsignados(CalcularImporte()))
+            {
+                CadVentas.AgregarVenta(idCliente, DtmFechaVenta, FormaPago, Efectivo,Cheque,Tarjeta,CuentaCorriente);
 
 
-            //Recorro la grilla de la venta para ir calculando por item.
+
+                //Recorro la grilla de la venta para ir calculando por item.
+
+                for (int i = 0; i < dgvVenta.MainView.RowCount; i++)
+                {
+                    AuxiliarVenta row = (AuxiliarVenta)this.gridView1.GetRow(i);
+
+                    int intIdArticulo = row.idArticulo;
+                    int intCantidad = row.cantidad;
+                    float fltPrecio = float.Parse(row.precio);
+                    float fltCosto = row.costo;
+                    int stock = row.stock;
+                    string Descripcion = row.descripcion;
+                    int Descuento = row.descuento;
+
+                    //Agrego el item a la tabla de deatlle de venta
+
+                    CadDetalleVenta.AgregarItemDetalle(intIdArticulo, intCantidad, fltPrecio);
+
+                    //Sumar el importe de la venta
+
+                    fltImportaTotalVenta = float.Parse(Math.Round(fltImportaTotalVenta + ((fltPrecio * intCantidad) - ((fltPrecio * intCantidad) * Descuento / 100)), 2).ToString());
+
+
+
+
+                    //Sumar el costo de la venta
+                    fltImporteCostoVenta = fltImporteCostoVenta + (fltCosto * intCantidad);
+
+                    //Descuento el stock de el articulo por la cantidad de esta venta
+                    string Estado = "A";
+
+                    ActualizarStock(intIdArticulo, intCantidad, Estado);
+                }
+
+                //Actualizo el importe total de venta,el saldo del cliente y el costo de la venta
+                CadVentas.ActualizarImporteTotal(fltImportaTotalVenta, IdCliente, FormaPago, fltImporteCostoVenta);
+
+                _ImporteTotal = fltImportaTotalVenta;
+
+            }
+            else
+                XtraMessageBox.Show("Hay parte del monto total sin asignar a una forma de pago");
+        }
+
+        private float CalcularImporte()
+        {
+            float Suma = 0;
 
             for (int i = 0; i < dgvVenta.MainView.RowCount; i++)
             {
                 AuxiliarVenta row = (AuxiliarVenta)this.gridView1.GetRow(i);
-
-                int intIdArticulo = row.idArticulo;
-                int intCantidad = row.cantidad;
-                float fltPrecio = float.Parse(row.precio);
-                float fltCosto = row.costo;
-                int stock = row.stock;
-                string Descripcion = row.descripcion;
-                int Descuento = row.descuento;
-
-                //Agrego el item a la tabla de deatlle de venta
-
-                CadDetalleVenta.AgregarItemDetalle(intIdArticulo, intCantidad, fltPrecio);
-
-                //Sumar el importe de la venta
-
-                fltImportaTotalVenta = float.Parse(Math.Round(fltImportaTotalVenta + ((fltPrecio * intCantidad) - ((fltPrecio * intCantidad) * Descuento / 100)),2).ToString());
-
-
-
-                
-                //Sumar el costo de la venta
-                fltImporteCostoVenta = fltImporteCostoVenta + (fltCosto * intCantidad);
-
-                //Descuento el stock de el articulo por la cantidad de esta venta
-                string Estado = "A";
-
-                ActualizarStock(intIdArticulo, intCantidad, Estado);
+                Suma = float.Parse(Math.Round(Suma + ((float.Parse(row.precio.ToString()) * float.Parse(row.cantidad.ToString())) - ((float.Parse(row.precio.ToString()) * float.Parse(row.cantidad.ToString())) * row.descuento / 100)), 2).ToString());
             }
-            
-            //Actualizo el importe total de venta,el saldo del cliente y el costo de la venta
-            CadVentas.ActualizarImporteTotal(fltImportaTotalVenta, IdCliente, FormaPago, fltImporteCostoVenta);
 
-            _ImporteTotal = fltImportaTotalVenta;
-            
-         
+            return Suma;
+        }
+
+        private bool VerificarMontosAsignados(float ImporteTotalVenta)
+        {
+            return ImporteTotalVenta == Efectivo + Cheque + Tarjeta + CuentaCorriente;
         }
 
         private bool ValidarStock()
@@ -465,6 +496,44 @@ namespace Presentacion
         private void txtcliente_TextChanged(object sender, EventArgs e)
         {
             BuscarCliente();
+        }
+
+        private void rdbCombinado_CheckedChanged(object sender, EventArgs e)
+        {
+            if (rdbCombinado.Checked)
+            {
+                if (Combinado)
+                {
+                    FormaPagoCombinada oFormaPagoCombinada = new FormaPagoCombinada(Efectivo,Tarjeta,Cheque,CuentaCorriente,Combinado, CalcularImporte());
+                    oFormaPagoCombinada.Show();
+
+                    if (!Combinado)
+                    {
+                        Efectivo = 0;
+                        Tarjeta = 0;
+                        Cheque = 0;
+                        CuentaCorriente = 0;
+                    }
+                }
+                else
+                {
+                    Efectivo = 0;
+                    Tarjeta = 0;
+                    Cheque = 0;
+                    CuentaCorriente = 0;
+
+                    FormaPagoCombinada oFormaPagoCombinada = new FormaPagoCombinada(Efectivo, Tarjeta, Cheque, CuentaCorriente, Combinado, CalcularImporte());
+                    oFormaPagoCombinada.Show();
+
+                    if (!Combinado)
+                    {
+                        Efectivo = 0;
+                        Tarjeta = 0;
+                        Cheque = 0;
+                        CuentaCorriente = 0;
+                    }
+                }
+            }
         }
     }
 }

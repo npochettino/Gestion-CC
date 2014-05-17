@@ -107,6 +107,12 @@
     <Compile Include="FormABMIngresosEgresos.Designer.cs">
       <DependentUpon>FormABMIngresosEgresos.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormaPagoCombinada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormaPagoCombinada.Designer.cs">
+      <DependentUpon>FormaPagoCombinada.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormReporteDeGastos.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -337,6 +343,9 @@
     <EmbeddedResource Include="FormABMIngresosEgresos.resx">
       <DependentUpon>FormABMIngresosEgresos.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormaPagoCombinada.resx">
+      <DependentUpon>FormaPagoCombinada.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormReporteDeGastos.resx">
       <DependentUpon>FormReporteDeGastos.cs</DependentUpon>
     </EmbeddedResource>
@@ -458,7 +467,9 @@
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteSaldos.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="app.config" />
+    <None Include="app.config">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="Ayuda.chm">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
