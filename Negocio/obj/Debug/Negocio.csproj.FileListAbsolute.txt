@@ -178,3 +178,10 @@ E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCt
 E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
 E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Negocio\obj\Debug\Negocio.dll
 E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\bin\Debug\Datos.dll
+C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\bin\Debug\Datos.pdb
+C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\obj\Debug\Negocio.pdb

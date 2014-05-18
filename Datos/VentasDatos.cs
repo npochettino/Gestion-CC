@@ -42,7 +42,7 @@ namespace Datos
 
         }
 
-        public void AgregarVenta(int idCliente, DateTime DtmFechaVenta, string strFormaPago,float Efectivo,float Cheque,float Tarjeta,float CuentaCorriente)
+        public void AgregarVenta(int idCliente, DateTime DtmFechaVenta, float Efectivo,float Cheque,float Tarjeta,float CuentaCorriente)
         {
             int Id_Venta=0;
             float fltImportaTotalVenta = 0;
@@ -59,12 +59,15 @@ namespace Datos
                 sqlCommand.CommandText = "sp_ABMVentas";
 
                 sqlCommand.Parameters.Add("@Id_Cliente", SqlDbType.Int).Value = idCliente;
-                sqlCommand.Parameters.Add("@FormaPago", SqlDbType.VarChar).Value = strFormaPago;
                 sqlCommand.Parameters.Add("@FechaVenta", SqlDbType.DateTime).Value = DtmFechaVenta;
                 sqlCommand.Parameters.Add("@Estado", SqlDbType.VarChar).Value = 'A';
                 sqlCommand.Parameters.Add("@Id_Venta", SqlDbType.Int).Value = Id_Venta;
                 sqlCommand.Parameters.Add("@ImporteTotal", SqlDbType.Float).Value = fltImportaTotalVenta;
                 sqlCommand.Parameters.Add("@CostoVenta", SqlDbType.Float).Value = fltCostoVenta;
+                sqlCommand.Parameters.Add("@Efectivo", SqlDbType.Float).Value = Efectivo;
+                sqlCommand.Parameters.Add("@Cheque", SqlDbType.Float).Value = Cheque;
+                sqlCommand.Parameters.Add("@Tarjeta", SqlDbType.Float).Value = Tarjeta;
+                sqlCommand.Parameters.Add("@CuentaCorriente", SqlDbType.Float).Value = CuentaCorriente;
                 sqlCommand.ExecuteNonQuery();
 
 

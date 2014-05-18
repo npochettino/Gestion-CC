@@ -1429,3 +1429,4 @@ C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.LogIn.resou
 C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
 C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
 C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.exe.licenses
+C:\Users\PC\Desktop\CtaCteV2.7.6\Presentacion\obj\Debug\Presentacion.FormaPagoCombinada.resources

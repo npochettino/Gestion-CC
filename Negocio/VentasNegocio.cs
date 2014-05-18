@@ -27,9 +27,9 @@ namespace Negocio
            return dsArticulo;
        }
 
-       public void AgregarVenta(int idCliente, DateTime DtmFechaVenta, string strFormapago,float Efectivo,float Cheque, float Tarjeta,float CuentaCorriente)
+       public void AgregarVenta(int idCliente, DateTime DtmFechaVenta, float Efectivo,float Cheque, float Tarjeta,float CuentaCorriente)
        {
-           CadVentas.AgregarVenta(idCliente, DtmFechaVenta, strFormapago);
+           CadVentas.AgregarVenta(idCliente, DtmFechaVenta, Efectivo, Cheque, Tarjeta, CuentaCorriente);
        }
 
        public void CancelarVenta(int IntId_Venta, int IntId_Cliente, float FltImporteTotal,string FormaPago)

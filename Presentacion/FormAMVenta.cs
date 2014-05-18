@@ -269,37 +269,35 @@ namespace Presentacion
             if (rdbCtaCte.Checked == true)
             {
                 FormaPago = "Cuenta Corriente";
-                CuentaCorriente = 
+                CuentaCorriente = CalcularImporte();
             }
 
             if (rdbEfectivo.Checked == true)
             {
                 FormaPago = "Efectivo";
+                Efectivo = CalcularImporte();
             }
 
 
             if (rdbTarjeta.Checked == true)
             {
                 FormaPago = "Tarjeta";
+                Tarjeta = CalcularImporte();
             }
 
             if (rdbCheque.Checked == true)
             {
                 FormaPago = "Cheque";
+                Cheque = CalcularImporte();
             
             }
 
-            if (rdbCheque.Checked == true)
-            {
-                FormaPago = "Cheque";
-
-            }
             
             //Primero agrego la venta en la tabla venta para luego agregar cada item venta y calcular el monto total de la venta.
 
             if (VerificarMontosAsignados(CalcularImporte()))
             {
-                CadVentas.AgregarVenta(idCliente, DtmFechaVenta, FormaPago, Efectivo,Cheque,Tarjeta,CuentaCorriente);
+                CadVentas.AgregarVenta(idCliente, DtmFechaVenta, Efectivo,Cheque,Tarjeta,CuentaCorriente);
 
 
 
