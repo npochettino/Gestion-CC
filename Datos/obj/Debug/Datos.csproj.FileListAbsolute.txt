@@ -126,3 +126,8 @@ C:\Users\PC\Desktop\CtaCteV2.7.6\Datos\bin\Debug\Datos.pdb
 C:\Users\PC\Desktop\CtaCteV2.7.6\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
 C:\Users\PC\Desktop\CtaCteV2.7.6\Datos\obj\Debug\Datos.dll
 C:\Users\PC\Desktop\CtaCteV2.7.6\Datos\obj\Debug\Datos.pdb
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Datos\bin\Debug\Datos.dll
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Datos\bin\Debug\Datos.pdb
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Datos\obj\Debug\Datos.dll
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Datos\obj\Debug\Datos.pdb

@@ -33,19 +33,19 @@
             this.btnCancelar = new DevExpress.XtraEditors.SimpleButton();
             this.txtEfectivo = new DevExpress.XtraEditors.TextEdit();
             this.lblEfectivo = new DevExpress.XtraEditors.LabelControl();
-            this.lblTarjeta = new DevExpress.XtraEditors.LabelControl();
             this.lblCheque = new DevExpress.XtraEditors.LabelControl();
             this.lblCuentaCorriente = new DevExpress.XtraEditors.LabelControl();
-            this.txtTarjeta = new DevExpress.XtraEditors.TextEdit();
+            this.lblTarjeta = new DevExpress.XtraEditors.LabelControl();
             this.txtCheque = new DevExpress.XtraEditors.TextEdit();
             this.txtCuentaCorriente = new DevExpress.XtraEditors.TextEdit();
+            this.txtTarjeta = new DevExpress.XtraEditors.TextEdit();
             this.lblMontoTotal = new DevExpress.XtraEditors.LabelControl();
             this.lblMontoRestante = new DevExpress.XtraEditors.LabelControl();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtEfectivo.Properties)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtTarjeta.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtCheque.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtCuentaCorriente.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtTarjeta.Properties)).BeginInit();
             this.SuspendLayout();
             // 
             // tableLayoutPanel1
@@ -110,6 +110,7 @@
             this.txtEfectivo.Size = new System.Drawing.Size(91, 20);
             this.txtEfectivo.TabIndex = 2;
             this.txtEfectivo.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtEfectivo_KeyPress);
+            this.txtEfectivo.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtEfectivo_KeyUp);
             // 
             // lblEfectivo
             // 
@@ -119,15 +120,6 @@
             this.lblEfectivo.Size = new System.Drawing.Size(43, 13);
             this.lblEfectivo.TabIndex = 3;
             this.lblEfectivo.Text = "Efectivo:";
-            // 
-            // lblTarjeta
-            // 
-            this.lblTarjeta.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.lblTarjeta.Location = new System.Drawing.Point(96, 116);
-            this.lblTarjeta.Name = "lblTarjeta";
-            this.lblTarjeta.Size = new System.Drawing.Size(39, 13);
-            this.lblTarjeta.TabIndex = 4;
-            this.lblTarjeta.Text = "Tarjeta:";
             // 
             // lblCheque
             // 
@@ -147,16 +139,14 @@
             this.lblCuentaCorriente.TabIndex = 6;
             this.lblCuentaCorriente.Text = "CuentaCorriente:";
             // 
-            // txtTarjeta
+            // lblTarjeta
             // 
-            this.txtTarjeta.Anchor = System.Windows.Forms.AnchorStyles.None;
-            this.tableLayoutPanel1.SetColumnSpan(this.txtTarjeta, 2);
-            this.txtTarjeta.EditValue = "0";
-            this.txtTarjeta.Location = new System.Drawing.Point(204, 112);
-            this.txtTarjeta.Name = "txtTarjeta";
-            this.txtTarjeta.Size = new System.Drawing.Size(88, 20);
-            this.txtTarjeta.TabIndex = 7;
-            this.txtTarjeta.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtTarjeta_KeyPress);
+            this.lblTarjeta.Anchor = System.Windows.Forms.AnchorStyles.Right;
+            this.lblTarjeta.Location = new System.Drawing.Point(96, 116);
+            this.lblTarjeta.Name = "lblTarjeta";
+            this.lblTarjeta.Size = new System.Drawing.Size(39, 13);
+            this.lblTarjeta.TabIndex = 4;
+            this.lblTarjeta.Text = "Tarjeta:";
             // 
             // txtCheque
             // 
@@ -168,6 +158,7 @@
             this.txtCheque.Size = new System.Drawing.Size(88, 20);
             this.txtCheque.TabIndex = 8;
             this.txtCheque.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCheque_KeyPress);
+            this.txtCheque.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtCheque_KeyUp);
             // 
             // txtCuentaCorriente
             // 
@@ -179,6 +170,19 @@
             this.txtCuentaCorriente.Size = new System.Drawing.Size(88, 20);
             this.txtCuentaCorriente.TabIndex = 9;
             this.txtCuentaCorriente.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtCuentaCorriente_KeyPress);
+            this.txtCuentaCorriente.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtCuentaCorriente_KeyUp);
+            // 
+            // txtTarjeta
+            // 
+            this.txtTarjeta.Anchor = System.Windows.Forms.AnchorStyles.None;
+            this.tableLayoutPanel1.SetColumnSpan(this.txtTarjeta, 2);
+            this.txtTarjeta.EditValue = "0";
+            this.txtTarjeta.Location = new System.Drawing.Point(204, 112);
+            this.txtTarjeta.Name = "txtTarjeta";
+            this.txtTarjeta.Size = new System.Drawing.Size(88, 20);
+            this.txtTarjeta.TabIndex = 7;
+            this.txtTarjeta.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtTarjeta_KeyPress);
+            this.txtTarjeta.KeyUp += new System.Windows.Forms.KeyEventHandler(this.txtTarjeta_KeyUp);
             // 
             // lblMontoTotal
             // 
@@ -217,9 +221,9 @@
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.txtEfectivo.Properties)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.txtTarjeta.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtCheque.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.txtCuentaCorriente.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtTarjeta.Properties)).EndInit();
             this.ResumeLayout(false);
 
         }

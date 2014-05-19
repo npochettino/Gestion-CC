@@ -185,3 +185,10 @@ C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\bin\Debug\Negocio.pdb
 C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\bin\Debug\Datos.dll
 C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\bin\Debug\Datos.pdb
 C:\Users\PC\Desktop\CtaCteV2.7.6\Negocio\obj\Debug\Negocio.pdb
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Negocio\bin\Debug\Negocio.dll
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Negocio\bin\Debug\Negocio.pdb
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Negocio\bin\Debug\Datos.dll
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Negocio\bin\Debug\Datos.pdb
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Negocio\obj\Debug\Negocio.csprojResolveAssemblyReference.cache
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Negocio\obj\Debug\Negocio.dll
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Negocio\obj\Debug\Negocio.pdb

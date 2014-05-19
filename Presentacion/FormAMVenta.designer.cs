@@ -58,12 +58,12 @@
             this.Marca = new DevExpress.XtraGrid.Columns.GridColumn();
             this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
             this.bar2 = new DevExpress.XtraBars.Bar();
-            this.BarBtnAgregarCliente = new DevExpress.XtraBars.BarButtonItem();
-            this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
             this.barDockControlTop = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlBottom = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlLeft = new DevExpress.XtraBars.BarDockControl();
             this.barDockControlRight = new DevExpress.XtraBars.BarDockControl();
+            this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
+            this.BarBtnAgregarCliente = new DevExpress.XtraBars.BarButtonItem();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
             this.btnDerecha = new DevExpress.XtraEditors.SimpleButton();
             this.btnIzquierda = new DevExpress.XtraEditors.SimpleButton();
@@ -434,21 +434,6 @@
             this.bar2.OptionsBar.UseWholeRow = true;
             this.bar2.Text = "Menú principal";
             // 
-            // BarBtnAgregarCliente
-            // 
-            this.BarBtnAgregarCliente.Alignment = DevExpress.XtraBars.BarItemLinkAlignment.Left;
-            this.BarBtnAgregarCliente.Caption = "Agregar Cliente";
-            this.BarBtnAgregarCliente.Id = 2;
-            this.BarBtnAgregarCliente.Name = "BarBtnAgregarCliente";
-            this.BarBtnAgregarCliente.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick);
-            // 
-            // barButtonItem1
-            // 
-            this.barButtonItem1.Alignment = DevExpress.XtraBars.BarItemLinkAlignment.Right;
-            this.barButtonItem1.Caption = "Ayuda";
-            this.barButtonItem1.Id = 0;
-            this.barButtonItem1.Name = "barButtonItem1";
-            // 
             // barDockControlTop
             // 
             this.barDockControlTop.CausesValidation = false;
@@ -476,6 +461,21 @@
             this.barDockControlRight.Dock = System.Windows.Forms.DockStyle.Right;
             this.barDockControlRight.Location = new System.Drawing.Point(727, 22);
             this.barDockControlRight.Size = new System.Drawing.Size(0, 373);
+            // 
+            // barButtonItem1
+            // 
+            this.barButtonItem1.Alignment = DevExpress.XtraBars.BarItemLinkAlignment.Right;
+            this.barButtonItem1.Caption = "Ayuda";
+            this.barButtonItem1.Id = 0;
+            this.barButtonItem1.Name = "barButtonItem1";
+            // 
+            // BarBtnAgregarCliente
+            // 
+            this.BarBtnAgregarCliente.Alignment = DevExpress.XtraBars.BarItemLinkAlignment.Left;
+            this.BarBtnAgregarCliente.Caption = "Agregar Cliente";
+            this.BarBtnAgregarCliente.Id = 2;
+            this.BarBtnAgregarCliente.Name = "BarBtnAgregarCliente";
+            this.BarBtnAgregarCliente.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick);
             // 
             // tableLayoutPanel5
             // 
@@ -629,7 +629,6 @@
             this.rdbCombinado.TabStop = true;
             this.rdbCombinado.Text = "Combinado";
             this.rdbCombinado.UseVisualStyleBackColor = true;
-            this.rdbCombinado.CheckedChanged += new System.EventHandler(this.rdbCombinado_CheckedChanged);
             // 
             // tableLayoutPanel9
             // 

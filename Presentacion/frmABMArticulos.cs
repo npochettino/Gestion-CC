@@ -81,7 +81,7 @@ namespace Presentacion
 
            
             string UltimoCodigo =dsArticulo.Tables["Articulo"].Rows[0][0].ToString();
-            int Posterior = Convert.ToInt32(UltimoCodigo)+1; 
+            int Posterior = UltimoCodigo == ""? 0 : Convert.ToInt32(UltimoCodigo)+1; 
 
             //Limpio los txtbox.
             txtDescripcionArticulo.Clear();

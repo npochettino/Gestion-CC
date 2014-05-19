@@ -11,3 +11,10 @@
         }
     }
 }
+
+namespace Presentacion.GestionCCTableAdapters {
+    
+    
+    public partial class MarcaTableAdapter {
+    }
+}

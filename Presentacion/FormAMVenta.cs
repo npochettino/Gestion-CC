@@ -15,15 +15,74 @@ namespace Presentacion
         int idCliente;
         string StrNombreCliente;
         string StrApellidoCliente;
-        float MontoParcial = 0;
+
         float ImporteTotal = 0;
 
-        float Tarjeta = 0, Cheque = 0, Efectivo = 0, CuentaCorriente = 0;
-        bool Combinado = false;
+        public float _Tarjeta = 0, _Cheque = 0, _Efectivo = 0, _CuentaCorriente = 0;
+        bool _Combinado = false;
 
-        
+        public float Tarjeta
+        {
+            get
+            {
+                return _Tarjeta;
+            }
+            set
+            {
+                _Tarjeta = value;
+            }
+        }
+
+        public float Cheque
+        {
+            get
+            {
+                return _Cheque;
+            }
+            set
+            {
+                _Cheque = value;
+            }
+        }
+
+        public float Efectivo
+        {
+            get
+            {
+                return _Efectivo;
+            }
+            set
+            {
+                _Efectivo = value;
+            }
+        }
+
+        public float CuentaCorriente
+        {
+            get
+            {
+                return _CuentaCorriente;
+            }
+            set
+            {
+                _CuentaCorriente = value;
+            }
+        }
+
+        public bool Combinado
+        {
+            get
+            {
+                return _Combinado;
+            }
+            set
+            {
+                _Combinado = value;
+            }
+        }
+
         Negocio.PagoEfectuadoNegocio CadPagoEfectuado = new Negocio.PagoEfectuadoNegocio();
-        
+
 
         public int IdCliente
         {
@@ -51,14 +110,14 @@ namespace Presentacion
             set { ImporteTotal = value; }
         }
 
-        
-        
+
+
         BindingList<AuxiliarVenta> gridDataList = new BindingList<AuxiliarVenta>();
 
         Negocio.VentasNegocio CadVentas = new Negocio.VentasNegocio();
         Negocio.VentaParcialNegocio CadVentasParcial = new Negocio.VentaParcialNegocio();
         Negocio.DetalleVentaNegocio CadDetalleVenta = new Negocio.DetalleVentaNegocio();
-        
+
         public FormAMVenta()
         {
             InitializeComponent();
@@ -78,7 +137,7 @@ namespace Presentacion
         private void barButtonItem2_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
             frmABMClientes ABMCliente = new frmABMClientes();
-            
+
             ABMCliente.ShowDialog();
         }
 
@@ -86,20 +145,20 @@ namespace Presentacion
         {
 
             RestablecerPantallaVenta();
-            
+
 
             // TODO: esta línea de código carga datos en la tabla 'gestionCC.ArticuloParaVenta' Puede moverla o quitarla según sea necesario.
             this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
 
-            
-            
-            
+
+
+
             // TODO: esta línea de código carga datos en la tabla 'gestionCC.VentaParcial' Puede moverla o quitarla según sea necesario.
             this.ventaParcialTableAdapter.Fill(this.gestionCC.VentaParcial);
             // TODO: esta línea de código carga datos en la tabla 'gestionCC.Articulo' Puede moverla o quitarla según sea necesario.
-      
 
-            lblNombreCliente.Text = strApellidoCliente +" "+ strNombreCliente;
+
+            lblNombreCliente.Text = strApellidoCliente + " " + strNombreCliente;
 
 
 
@@ -138,18 +197,18 @@ namespace Presentacion
                 }
 
 
-                else 
+                else
                 {
                     XtraMessageBox.Show("El Articulo no tiene Asignado Costo, Asignelo y luego realice la venta", "Advertencia", MessageBoxButtons.OK, MessageBoxIcon.Error);
                 }
 
-              
-                
-                
+
+
+
             }
             else
             {
-                XtraMessageBox.Show("No hay Artículos para vender","Error",MessageBoxButtons.OK,MessageBoxIcon.Error);
+                XtraMessageBox.Show("No hay Artículos para vender", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
 
         }
@@ -161,11 +220,11 @@ namespace Presentacion
 
         private void quitarItem()
         {
-            if(this.dgvVenta.MainView.RowCount!=0)
+            if (this.dgvVenta.MainView.RowCount != 0)
             {
                 int[] arrIntFilasSeleccionadas = ((GridView)this.dgvVenta.MainView).GetSelectedRows();
 
-              
+
 
                 AuxiliarVenta selRow = (AuxiliarVenta)(((GridView)this.dgvVenta.MainView).GetRow(arrIntFilasSeleccionadas[0]));
 
@@ -173,7 +232,7 @@ namespace Presentacion
 
 
                 gridDataList.RemoveAt(gridView1.FocusedRowHandle);
-                
+
 
                 CadVentasParcial.QuitarItem(intIdArticulo);
 
@@ -188,37 +247,120 @@ namespace Presentacion
 
         private void btnConfirmar_Click(object sender, EventArgs e)
         {
-             if (ValidarDatosDelForm())
-             {
-                 AgregarVenta();
+            AsignarValores();
 
-                 this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
 
-                 if (float.Parse(txtEntrega.Text) > 0)
-                 {
-                     CadPagoEfectuado.AgregarPago(idCliente, DateTime.Now.ToString(), float.Parse(txtEntrega.Text));
-                 }
 
-                 //Voy a buscar el saldo actual del cliente luego de realizar la venta para mostrarlo en la pantalla.
-                 
-                 Negocio.ClientesNegocio Cliente = new Negocio.ClientesNegocio();
+            if (rdbCombinado.Checked == true)
+            {
 
-                 DataSet dsSaldoCliente = new DataSet();
+                if (Combinado)
+                {
+                    if (ValidarDatosDelForm())
+                    {
 
-                 dsSaldoCliente = Cliente.ConsultarSaldo(IdCliente);
+                        Agregadodelaventa();
+                        RestablecerPantallaVenta();
+                    }
 
-                 float Saldo = float.Parse(dsSaldoCliente.Tables["Cliente"].Rows[0][0].ToString());
-                 
-                 
-                 //Muestro En pantalla
 
-                 XtraMessageBox.Show("Se ha registrado la venta \r\n\r\n Cliente: " + lblNombreCliente.Text + " \r\n\r\n Importe Venta: " + _ImporteTotal + "\r\n\r\n Saldo Actual: " + Saldo + "", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);         
-        
-                 this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
+                }
+                else
+                {
 
-             }
-            RestablecerPantallaVenta();
-       }
+                }
+
+
+            }
+
+            else
+            {
+                if (ValidarDatosDelForm())
+                {
+
+
+                    Agregadodelaventa();
+                    RestablecerPantallaVenta();
+                }
+            }
+
+
+
+
+
+        }
+
+        private void Agregadodelaventa()
+        {
+            AgregarVenta();
+
+            this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
+
+            if (float.Parse(txtEntrega.Text) > 0)
+            {
+                CadPagoEfectuado.AgregarPago(idCliente, DateTime.Now.ToString(), float.Parse(txtEntrega.Text));
+            }
+
+            //Voy a buscar el saldo actual del cliente luego de realizar la venta para mostrarlo en la pantalla.
+
+            Negocio.ClientesNegocio Cliente = new Negocio.ClientesNegocio();
+
+            DataSet dsSaldoCliente = new DataSet();
+
+            dsSaldoCliente = Cliente.ConsultarSaldo(IdCliente);
+
+            float Saldo = float.Parse(dsSaldoCliente.Tables["Cliente"].Rows[0][0].ToString());
+
+
+            //Muestro En pantalla
+
+            XtraMessageBox.Show("Se ha registrado la venta \r\n\r\n Cliente: " + lblNombreCliente.Text + " \r\n\r\n Importe Venta: " + _ImporteTotal + "\r\n\r\n Saldo Actual: " + Saldo + "", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+            this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
+
+        }
+
+        private void AsignarValores()
+        {
+            if (rdbCtaCte.Checked == true)
+            {
+
+                CuentaCorriente = CalcularImporte();
+            }
+
+            if (rdbEfectivo.Checked == true)
+            {
+
+
+                Efectivo = CalcularImporte();
+            }
+
+
+            if (rdbTarjeta.Checked == true)
+            {
+
+                Tarjeta = CalcularImporte();
+            }
+
+            if (rdbCheque.Checked == true)
+            {
+
+                Cheque = CalcularImporte();
+            }
+
+            if (rdbCombinado.Checked)
+            {
+
+                Efectivo = 0;
+                Tarjeta = 0;
+                Cheque = 0;
+                CuentaCorriente = 0;
+
+                FormaPagoCombinada oFormaPagoCombinada = new FormaPagoCombinada(this, Efectivo, Tarjeta, Cheque, CuentaCorriente, Combinado, CalcularImporte());
+                oFormaPagoCombinada.ShowDialog();
+
+            }
+        }
 
         private bool ValidarDatosDelForm()
         {
@@ -232,7 +374,7 @@ namespace Presentacion
 
 
 
-            if(this.dgvVenta.MainView.RowCount==0)
+            if (this.dgvVenta.MainView.RowCount == 0)
             {
                 bandera = false;
                 errores += "-No hay artículos registrados en la Venta\n";
@@ -241,10 +383,18 @@ namespace Presentacion
             if (this.dgvVenta.MainView.RowCount != 0 && !ValidarStock())
             {
                 bandera = false;
-                errores += "-Uno o màs artículos no cuentan con el stock suficiente";
+                errores += "-Uno o màs artículos no cuentan con el stock suficiente\n";
             }
 
-            if(bandera)
+            if (!VerificarMontosAsignados(CalcularImporte()))
+            {
+                bandera = false;
+                errores += "-El total de pago no coincide con el importe";
+            }
+
+
+
+            if (bandera)
             {
                 return true;
             }
@@ -254,95 +404,73 @@ namespace Presentacion
                 return false;
             }
         }
-  
+
+
+
         private void AgregarVenta()
         {
 
             DateTime DtmFechaVenta = dtpFechaVenta.Value;
             bool bolCtaCte = rdbCtaCte.Checked;
-            string FormaPago = "";
+
 
             float fltImportaTotalVenta = 0;
-            
+
             float fltImporteCostoVenta = 0;
 
-            if (rdbCtaCte.Checked == true)
-            {
-                FormaPago = "Cuenta Corriente";
-                CuentaCorriente = CalcularImporte();
-            }
-
-            if (rdbEfectivo.Checked == true)
-            {
-                FormaPago = "Efectivo";
-                Efectivo = CalcularImporte();
-            }
 
 
-            if (rdbTarjeta.Checked == true)
-            {
-                FormaPago = "Tarjeta";
-                Tarjeta = CalcularImporte();
-            }
 
-            if (rdbCheque.Checked == true)
-            {
-                FormaPago = "Cheque";
-                Cheque = CalcularImporte();
-            
-            }
-
-            
             //Primero agrego la venta en la tabla venta para luego agregar cada item venta y calcular el monto total de la venta.
 
-            if (VerificarMontosAsignados(CalcularImporte()))
+
+            CadVentas.AgregarVenta(idCliente, DtmFechaVenta, Efectivo, Cheque, Tarjeta, CuentaCorriente);
+
+            //Recorro la grilla de la venta para ir calculando por item.
+
+            for (int i = 0; i < dgvVenta.MainView.RowCount; i++)
             {
-                CadVentas.AgregarVenta(idCliente, DtmFechaVenta, Efectivo,Cheque,Tarjeta,CuentaCorriente);
+                AuxiliarVenta row = (AuxiliarVenta)this.gridView1.GetRow(i);
 
+                int intIdArticulo = row.idArticulo;
+                int intCantidad = row.cantidad;
+                float fltPrecio = float.Parse(row.precio);
+                float fltCosto = row.costo;
+                int stock = row.stock;
+                string Descripcion = row.descripcion;
+                int Descuento = row.descuento;
 
+                //Agrego el item a la tabla de deatlle de venta
 
-                //Recorro la grilla de la venta para ir calculando por item.
+                CadDetalleVenta.AgregarItemDetalle(intIdArticulo, intCantidad, fltPrecio);
 
-                for (int i = 0; i < dgvVenta.MainView.RowCount; i++)
-                {
-                    AuxiliarVenta row = (AuxiliarVenta)this.gridView1.GetRow(i);
+                //Sumar el importe de la venta
 
-                    int intIdArticulo = row.idArticulo;
-                    int intCantidad = row.cantidad;
-                    float fltPrecio = float.Parse(row.precio);
-                    float fltCosto = row.costo;
-                    int stock = row.stock;
-                    string Descripcion = row.descripcion;
-                    int Descuento = row.descuento;
-
-                    //Agrego el item a la tabla de deatlle de venta
-
-                    CadDetalleVenta.AgregarItemDetalle(intIdArticulo, intCantidad, fltPrecio);
-
-                    //Sumar el importe de la venta
-
-                    fltImportaTotalVenta = float.Parse(Math.Round(fltImportaTotalVenta + ((fltPrecio * intCantidad) - ((fltPrecio * intCantidad) * Descuento / 100)), 2).ToString());
+                fltImportaTotalVenta = float.Parse(Math.Round(fltImportaTotalVenta + ((fltPrecio * intCantidad) - ((fltPrecio * intCantidad) * Descuento / 100)), 2).ToString());
 
 
 
 
-                    //Sumar el costo de la venta
-                    fltImporteCostoVenta = fltImporteCostoVenta + (fltCosto * intCantidad);
+                //Sumar el costo de la venta
+                fltImporteCostoVenta = fltImporteCostoVenta + (fltCosto * intCantidad);
 
-                    //Descuento el stock de el articulo por la cantidad de esta venta
-                    string Estado = "A";
+                //Descuento el stock de el articulo por la cantidad de esta venta
+                string Estado = "A";
 
-                    ActualizarStock(intIdArticulo, intCantidad, Estado);
-                }
-
-                //Actualizo el importe total de venta,el saldo del cliente y el costo de la venta
-                CadVentas.ActualizarImporteTotal(fltImportaTotalVenta, IdCliente, FormaPago, fltImporteCostoVenta);
-
-                _ImporteTotal = fltImportaTotalVenta;
+                ActualizarStock(intIdArticulo, intCantidad, Estado);
 
             }
-            else
-                XtraMessageBox.Show("Hay parte del monto total sin asignar a una forma de pago");
+            //Actualizo el importe total de venta,el saldo del cliente y el costo de la venta
+            CadVentas.ActualizarImporteTotal(fltImportaTotalVenta, IdCliente, fltImporteCostoVenta, CuentaCorriente);
+
+            _ImporteTotal = fltImportaTotalVenta;
+
+            Efectivo = 0;
+            CuentaCorriente = 0;
+            Tarjeta = 0;
+            Cheque = 0;
+
+
         }
 
         private float CalcularImporte()
@@ -381,7 +509,7 @@ namespace Presentacion
         private void RestablecerPantallaVenta()
         {
             txtEntrega.Text = "0";
-            MontoParcial = 0;
+            float MontoParcial = 0;
 
             for (int j = 0; j < dgvVenta.MainView.RowCount; j++)
             {
@@ -391,28 +519,24 @@ namespace Presentacion
 
                 CadVentasParcial.QuitarItem(row.idArticulo);
             }
-
+            MontoParcial = 0;
             this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
-
-
-
-
         }
 
-        private void ActualizarStock(int intIdArticulo, int intCantidad,string strEstado)
+        private void ActualizarStock(int intIdArticulo, int intCantidad, string strEstado)
         {
             Negocio.ArticulosNegocio CadArticulo = new Negocio.ArticulosNegocio();
 
-            CadArticulo.ActualizarStock(intIdArticulo,intCantidad,strEstado);
+            CadArticulo.ActualizarStock(intIdArticulo, intCantidad, strEstado);
 
         }
 
         private void FormAMVenta_FormClosed(object sender, FormClosedEventArgs e)
         {
             CadVentasParcial.ReestablecerArticulos();
-    
+
             Presentacion.FormVentasCliente VentasClientes = new FormVentasCliente();
-            VentasClientes.ActualizarGrillaClientes();        
+            VentasClientes.ActualizarGrillaClientes();
         }
 
         private void barButtonItem2_ItemClick_1(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
@@ -429,11 +553,11 @@ namespace Presentacion
                 txtEntrega.Enabled = true;
 
             }
-            else 
+            else
             {
                 txtEntrega.Enabled = false;
                 txtEntrega.Text = "0";
-            
+
             }
         }
 
@@ -464,10 +588,8 @@ namespace Presentacion
 
                 lblNombreCliente.Refresh();
             }
-
-
             catch { }
-            
+
         }
 
         private void txtEntrega_KeyPress(object sender, KeyPressEventArgs e)
@@ -496,42 +618,6 @@ namespace Presentacion
             BuscarCliente();
         }
 
-        private void rdbCombinado_CheckedChanged(object sender, EventArgs e)
-        {
-            if (rdbCombinado.Checked)
-            {
-                if (Combinado)
-                {
-                    FormaPagoCombinada oFormaPagoCombinada = new FormaPagoCombinada(Efectivo,Tarjeta,Cheque,CuentaCorriente,Combinado, CalcularImporte());
-                    oFormaPagoCombinada.Show();
 
-                    if (!Combinado)
-                    {
-                        Efectivo = 0;
-                        Tarjeta = 0;
-                        Cheque = 0;
-                        CuentaCorriente = 0;
-                    }
-                }
-                else
-                {
-                    Efectivo = 0;
-                    Tarjeta = 0;
-                    Cheque = 0;
-                    CuentaCorriente = 0;
-
-                    FormaPagoCombinada oFormaPagoCombinada = new FormaPagoCombinada(Efectivo, Tarjeta, Cheque, CuentaCorriente, Combinado, CalcularImporte());
-                    oFormaPagoCombinada.Show();
-
-                    if (!Combinado)
-                    {
-                        Efectivo = 0;
-                        Tarjeta = 0;
-                        Cheque = 0;
-                        CuentaCorriente = 0;
-                    }
-                }
-            }
-        }
     }
 }

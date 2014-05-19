@@ -124,12 +124,13 @@ namespace Datos
             }
         }
 
-        public void ActualizarImporteTotal(float fltImportaTotalVenta,int Id_Cliente,string FormaPago,float ImporteCostoVenta)
+        public void ActualizarImporteTotal(float fltImportaTotalVenta, int Id_Cliente, float ImporteCostoVenta,float CuentaCorriente)
         {
-            
-            
+
+
             DateTime DtmFechaVenta = DateTime.Now;
             int IntId_Venta = 0;
+            float Efectivo=0;
             try
             {
                 SqlConnection conexion = new SqlConnection(strCadenaDeConexion);
@@ -140,14 +141,16 @@ namespace Datos
                 sqlCommand.Connection.Open();
                 sqlCommand.CommandType = CommandType.StoredProcedure;
                 sqlCommand.CommandText = "sp_ABMVentas";
-
-                sqlCommand.Parameters.Add("@Id_Cliente", SqlDbType.Int).Value =Id_Cliente;
-                sqlCommand.Parameters.Add("@FormaPago", SqlDbType.VarChar).Value = FormaPago;
+                sqlCommand.Parameters.Add("@Id_Cliente", SqlDbType.Int).Value = Id_Cliente;
                 sqlCommand.Parameters.Add("@FechaVenta", SqlDbType.DateTime).Value = DtmFechaVenta;
                 sqlCommand.Parameters.Add("@Estado", SqlDbType.VarChar).Value = 'C';
                 sqlCommand.Parameters.Add("@Id_Venta", SqlDbType.Int).Value = IntId_Venta;
                 sqlCommand.Parameters.Add("@ImporteTotal", SqlDbType.Float).Value = fltImportaTotalVenta;
                 sqlCommand.Parameters.Add("@CostoVenta", SqlDbType.Float).Value = ImporteCostoVenta;
+                sqlCommand.Parameters.Add("@Efectivo", SqlDbType.Float).Value =Efectivo;
+                sqlCommand.Parameters.Add("@Cheque", SqlDbType.Float).Value = Efectivo;
+                sqlCommand.Parameters.Add("@Tarjeta", SqlDbType.Float).Value = Efectivo;
+                sqlCommand.Parameters.Add("@CuentaCorriente", SqlDbType.Float).Value = CuentaCorriente;
                 sqlCommand.ExecuteNonQuery();
 
 

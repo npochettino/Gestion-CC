@@ -11,24 +11,28 @@ namespace Presentacion
 {
     public partial class FormaPagoCombinada : DevExpress.XtraEditors.XtraForm
     {
-        float Tarjeta, Cheque, Efectivo, CuentaCorriente,Importe;
-        bool Combinado;
+        public float Tarjeta, Cheque, Efectivo, CuentaCorriente,Importe;
+        bool Combinado; FormAMVenta Source;
 
         public FormaPagoCombinada()
         {
             InitializeComponent();
+
+            
         }
 
-        public FormaPagoCombinada(float Efectivo, float Tarjeta, float Cheque, float CuentaCorriente, bool Combinado, float Importe)
+        public FormaPagoCombinada(FormAMVenta Venta,float Efectivo,float Tarjeta,float Cheque,float CuentaCorriente,bool Combinado, float Importe) : this()
         {
             this.Importe = Importe;
             this.lblMontoTotal.Text = lblMontoTotal.Text + Importe.ToString();
             this.lblMontoRestante.Text = lblMontoRestante.Text + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
-            this.Efectivo = Efectivo;
-            this.Cheque = Cheque;
-            this.CuentaCorriente = CuentaCorriente;
-            this.Tarjeta = Tarjeta;
-            this.Combinado = Combinado;
+
+            Source = Venta;
+            Venta.Efectivo = Efectivo;
+            Venta.Cheque = Cheque;
+            Venta.CuentaCorriente = CuentaCorriente;
+            Venta.Tarjeta = Tarjeta;
+            Venta.Combinado = Combinado;
         }
 
         private void txtEfectivo_KeyPress(object sender, KeyPressEventArgs e)
@@ -50,10 +54,6 @@ namespace Presentacion
             // del cero al nueve only,...y backspace
             if ((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 8)
             {
-                Efectivo = float.Parse(this.txtEfectivo.Text);
-
-                this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
-
                 e.Handled = true; // quitamos caracter
             }
         }
@@ -77,10 +77,6 @@ namespace Presentacion
             // del cero al nueve only,...y backspace
             if ((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 8)
             {
-                Tarjeta = float.Parse(this.txtTarjeta.Text);
-
-                this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
-
                 e.Handled = true; // quitamos caracter
             }
         }
@@ -104,11 +100,9 @@ namespace Presentacion
             // del cero al nueve only,...y backspace
             if ((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 8)
             {
-                this.Cheque = float.Parse(this.txtCheque.Text);
-
                 e.Handled = true; // quitamos caracter
 
-                this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
+                
             }
         }
 
@@ -131,29 +125,62 @@ namespace Presentacion
             // del cero al nueve only,...y backspace
             if ((e.KeyChar < 48 || e.KeyChar > 57) && e.KeyChar != 8)
             {
-                CuentaCorriente = float.Parse(this.txtCuentaCorriente.Text);
-
                 e.Handled = true; // quitamos caracter
-
-                this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
             }
         }
 
         private void btnAceptar_Click(object sender, EventArgs e)
         {
-            if (float.Parse(lblMontoTotal.Text.Split(':')[1]) != float.Parse(lblMontoRestante.Text.Split(':')[1]))
+            float MontoTotal = float.Parse(lblMontoTotal.Text.Split(':')[1]);
+            float MontoRestante = float.Parse(lblMontoRestante.Text.Split(':')[1]);
+
+            if (0 != float.Parse(lblMontoRestante.Text.Split(':')[1]))
                 XtraMessageBox.Show("Hay diferencias entre el pago y el monto total", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
             else
             {
                 Combinado = true;
+                Source.Efectivo = float.Parse(txtEfectivo.Text);
+                Source.Tarjeta = float.Parse(txtTarjeta.Text);
+                Source.CuentaCorriente = float.Parse(txtCuentaCorriente.Text);
+                Source.Cheque = float.Parse(txtCheque.Text);
+                Source.Combinado = true;
+
+                
+
                 this.Dispose();
             }
         }
 
         private void btnCancelar_Click(object sender, EventArgs e)
         {
-            Combinado = false;
+            Source.Combinado = false;
+            
             this.Dispose();
+
+        }
+
+        private void txtEfectivo_KeyUp(object sender, KeyEventArgs e)
+        {
+            Efectivo = this.txtEfectivo.Text == "" ? 0 : float.Parse(this.txtEfectivo.Text);
+            this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + ":" + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
+        }
+
+        private void txtTarjeta_KeyUp(object sender, KeyEventArgs e)
+        {
+            Tarjeta = this.txtTarjeta.Text == "" ?  0 : float.Parse(this.txtTarjeta.Text);
+            this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + ":" + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
+        }
+
+        private void txtCheque_KeyUp(object sender, KeyEventArgs e)
+        {
+            this.Cheque = this.txtCheque.Text == "" ? 0 : float.Parse(this.txtCheque.Text);
+            this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + ":" + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
+        }
+
+        private void txtCuentaCorriente_KeyUp(object sender, KeyEventArgs e)
+        {
+            CuentaCorriente = this.txtCuentaCorriente.Text == "" ? 0 : float.Parse(this.txtCuentaCorriente.Text);
+            this.lblMontoRestante.Text = lblMontoRestante.Text.Split(':')[0] + ":" + (Importe - Efectivo - Tarjeta - Cheque - CuentaCorriente).ToString();
         }
     }
 }

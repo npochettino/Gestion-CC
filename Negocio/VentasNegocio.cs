@@ -39,9 +39,9 @@ namespace Negocio
 
        
 
-       public void ActualizarImporteTotal(float fltImportaTotalVenta,int Id_Cliente,string FormaPago,float fltImporteCostoVenta)
+       public void ActualizarImporteTotal(float fltImportaTotalVenta,int Id_Cliente,float fltImporteCostoVenta,float CuentaCorriente)
        {
-           CadVentas.ActualizarImporteTotal(fltImportaTotalVenta,Id_Cliente,FormaPago,fltImporteCostoVenta);
+           CadVentas.ActualizarImporteTotal(fltImportaTotalVenta, Id_Cliente, fltImporteCostoVenta,CuentaCorriente);
        }
     }
 }
