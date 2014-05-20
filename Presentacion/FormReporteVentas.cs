@@ -50,8 +50,8 @@ namespace Presentacion
 
             if (Privilegio == "Administrador")
             {
-                rpt.Load(ruta);
-                //rpt.Load(@"C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\ReportedeVentas.rpt");
+                //rpt.Load(ruta);
+                rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\ReportedeVentas.rpt");
             }
             else 
             {
@@ -61,12 +61,9 @@ namespace Presentacion
             
             string desde = dtpDesde.Value.ToString();
             string hasta = dtpHasta.Value.ToString();
-            string FormaPago = cbxTipoVenta.Text.ToString();
+            int Id_FormaPago = Convert.ToInt16(cbxTipoVenta.SelectedValue);
 
-            if (FormaPago == "Todo")
-            {
-                FormaPago = "Efectivo,CtaCte,Tarjeta,Cheque";
-            }
+            
            
 
             
@@ -140,7 +137,7 @@ namespace Presentacion
             ParameterValues crParameterValues5 = new ParameterValues();
             ParameterDiscreteValue crParameterDiscreteValue5 = new ParameterDiscreteValue();
 
-            crParameterDiscreteValue5.Value = FormaPago;
+            crParameterDiscreteValue5.Value = Id_FormaPago;
             crParameterFieldDefinitions5 = rpt.DataDefinition.ParameterFields;
             crParameterFieldDefinition5 = crParameterFieldDefinitions5["FormaPago"];
             crParameterValues4 = crParameterFieldDefinition5.CurrentValues;
@@ -150,8 +147,10 @@ namespace Presentacion
             crParameterFieldDefinition5.ApplyCurrentValues(crParameterValues5);
 
 
-            
-            rpt.SetDatabaseLogon("saftec","ana");
+
+            CrystalRules Conexion = new CrystalRules();
+            //Se llama al metodo apply que configura todos los datos de conexion por medio del app.config
+            rpt = Conexion.ApplyInfo(rpt);
             crystalReportViewer2.ReportSource = rpt;
             crystalReportViewer2.Refresh(); 
         
@@ -204,6 +203,8 @@ namespace Presentacion
 
         private void FormReporteVentas_Load(object sender, EventArgs e)
         {
+            // TODO: esta línea de código carga datos en la tabla 'gestionCC.FormaPago' Puede moverla o quitarla según sea necesario.
+            this.formaPagoTableAdapter.Fill(this.gestionCC.FormaPago);
             cbxTipoVenta.Text = "Todo";
         }
     }

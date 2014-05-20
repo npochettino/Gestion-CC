@@ -41,11 +41,10 @@
             this.ventaBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.gestionCC = new Presentacion.GestionCC();
             this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
-            this.colId_Venta = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colId_Cliente = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.coldescripcionFormaPago = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colImporte = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colFechaVenta = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colFormaPago = new DevExpress.XtraGrid.Columns.GridColumn();
-            this.colImporteTotal = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colHora = new DevExpress.XtraGrid.Columns.GridColumn();
             this.navBarControl1 = new DevExpress.XtraNavBar.NavBarControl();
             this.navBarGroup1 = new DevExpress.XtraNavBar.NavBarGroup();
             this.nbiNuevaVenta = new DevExpress.XtraNavBar.NavBarItem();
@@ -170,54 +169,47 @@
             // gridView1
             // 
             this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
-            this.colId_Venta,
-            this.colId_Cliente,
+            this.coldescripcionFormaPago,
+            this.colImporte,
             this.colFechaVenta,
-            this.colFormaPago,
-            this.colImporteTotal});
+            this.colHora});
             this.gridView1.GridControl = this.dgvVentas;
+            this.gridView1.GroupCount = 2;
             this.gridView1.Name = "gridView1";
+            this.gridView1.OptionsView.ShowGroupPanel = false;
+            this.gridView1.SortInfo.AddRange(new DevExpress.XtraGrid.Columns.GridColumnSortInfo[] {
+            new DevExpress.XtraGrid.Columns.GridColumnSortInfo(this.colFechaVenta, DevExpress.Data.ColumnSortOrder.Ascending),
+            new DevExpress.XtraGrid.Columns.GridColumnSortInfo(this.colHora, DevExpress.Data.ColumnSortOrder.Ascending)});
             // 
-            // colId_Venta
+            // coldescripcionFormaPago
             // 
-            this.colId_Venta.FieldName = "Id_Venta";
-            this.colId_Venta.Name = "colId_Venta";
-            this.colId_Venta.OptionsColumn.ReadOnly = true;
+            this.coldescripcionFormaPago.Caption = "Forma Pago";
+            this.coldescripcionFormaPago.FieldName = "descripcionFormaPago";
+            this.coldescripcionFormaPago.Name = "coldescripcionFormaPago";
+            this.coldescripcionFormaPago.Visible = true;
+            this.coldescripcionFormaPago.VisibleIndex = 0;
             // 
-            // colId_Cliente
+            // colImporte
             // 
-            this.colId_Cliente.FieldName = "Id_Cliente";
-            this.colId_Cliente.Name = "colId_Cliente";
+            this.colImporte.FieldName = "Importe";
+            this.colImporte.Name = "colImporte";
+            this.colImporte.Visible = true;
+            this.colImporte.VisibleIndex = 1;
             // 
             // colFechaVenta
             // 
             this.colFechaVenta.FieldName = "FechaVenta";
             this.colFechaVenta.Name = "colFechaVenta";
-            this.colFechaVenta.OptionsColumn.AllowEdit = false;
-            this.colFechaVenta.OptionsColumn.AllowFocus = false;
-            this.colFechaVenta.OptionsColumn.ReadOnly = true;
             this.colFechaVenta.Visible = true;
-            this.colFechaVenta.VisibleIndex = 0;
+            this.colFechaVenta.VisibleIndex = 2;
             // 
-            // colFormaPago
+            // colHora
             // 
-            this.colFormaPago.FieldName = "FormaPago";
-            this.colFormaPago.Name = "colFormaPago";
-            this.colFormaPago.OptionsColumn.AllowEdit = false;
-            this.colFormaPago.OptionsColumn.AllowFocus = false;
-            this.colFormaPago.OptionsColumn.ReadOnly = true;
-            this.colFormaPago.Visible = true;
-            this.colFormaPago.VisibleIndex = 2;
-            // 
-            // colImporteTotal
-            // 
-            this.colImporteTotal.FieldName = "ImporteTotal";
-            this.colImporteTotal.Name = "colImporteTotal";
-            this.colImporteTotal.OptionsColumn.AllowEdit = false;
-            this.colImporteTotal.OptionsColumn.AllowFocus = false;
-            this.colImporteTotal.OptionsColumn.ReadOnly = true;
-            this.colImporteTotal.Visible = true;
-            this.colImporteTotal.VisibleIndex = 1;
+            this.colHora.FieldName = "Hora";
+            this.colHora.Name = "colHora";
+            this.colHora.OptionsColumn.ReadOnly = true;
+            this.colHora.Visible = true;
+            this.colHora.VisibleIndex = 2;
             // 
             // navBarControl1
             // 
@@ -365,10 +357,9 @@
         private DevExpress.XtraEditors.LabelControl lblCliente;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel2;
         private DevExpress.XtraNavBar.NavBarItem nbiEmitirInforme;
-        private DevExpress.XtraGrid.Columns.GridColumn colId_Venta;
-        private DevExpress.XtraGrid.Columns.GridColumn colId_Cliente;
+        private DevExpress.XtraGrid.Columns.GridColumn coldescripcionFormaPago;
+        private DevExpress.XtraGrid.Columns.GridColumn colImporte;
         private DevExpress.XtraGrid.Columns.GridColumn colFechaVenta;
-        private DevExpress.XtraGrid.Columns.GridColumn colFormaPago;
-        private DevExpress.XtraGrid.Columns.GridColumn colImporteTotal;
+        private DevExpress.XtraGrid.Columns.GridColumn colHora;
     }
 }

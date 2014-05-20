@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.crystalReportViewer2 = new CrystalDecisions.Windows.Forms.CrystalReportViewer();
             this.btnEmitir = new DevExpress.XtraEditors.SimpleButton();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
@@ -41,11 +42,16 @@
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
             this.label2 = new System.Windows.Forms.Label();
             this.dtpHasta = new System.Windows.Forms.DateTimePicker();
+            this.gestionCC = new Presentacion.GestionCC();
+            this.formaPagoBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.formaPagoTableAdapter = new Presentacion.GestionCCTableAdapters.FormaPagoTableAdapter();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
             this.tableLayoutPanel3.SuspendLayout();
             this.tableLayoutPanel4.SuspendLayout();
             this.tableLayoutPanel5.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gestionCC)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.formaPagoBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // crystalReportViewer2
@@ -126,18 +132,15 @@
             // 
             // cbxTipoVenta
             // 
+            this.cbxTipoVenta.DataSource = this.formaPagoBindingSource;
+            this.cbxTipoVenta.DisplayMember = "descripcionFormaPago";
             this.cbxTipoVenta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cbxTipoVenta.FormattingEnabled = true;
-            this.cbxTipoVenta.Items.AddRange(new object[] {
-            "Todo",
-            "Efectivo",
-            "CtaCte",
-            "Tarjeta",
-            "Cheque"});
             this.cbxTipoVenta.Location = new System.Drawing.Point(89, 3);
             this.cbxTipoVenta.Name = "cbxTipoVenta";
             this.cbxTipoVenta.Size = new System.Drawing.Size(186, 21);
             this.cbxTipoVenta.TabIndex = 12;
+            this.cbxTipoVenta.ValueMember = "idFormaPago";
             // 
             // label3
             // 
@@ -210,6 +213,20 @@
             this.dtpHasta.Size = new System.Drawing.Size(182, 20);
             this.dtpHasta.TabIndex = 3;
             // 
+            // gestionCC
+            // 
+            this.gestionCC.DataSetName = "GestionCC";
+            this.gestionCC.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // formaPagoBindingSource
+            // 
+            this.formaPagoBindingSource.DataMember = "FormaPago";
+            this.formaPagoBindingSource.DataSource = this.gestionCC;
+            // 
+            // formaPagoTableAdapter
+            // 
+            this.formaPagoTableAdapter.ClearBeforeFill = true;
+            // 
             // FormReporteVentas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -230,6 +247,8 @@
             this.tableLayoutPanel4.PerformLayout();
             this.tableLayoutPanel5.ResumeLayout(false);
             this.tableLayoutPanel5.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gestionCC)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.formaPagoBindingSource)).EndInit();
             this.ResumeLayout(false);
 
         }
@@ -249,5 +268,8 @@
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
+        private GestionCC gestionCC;
+        private System.Windows.Forms.BindingSource formaPagoBindingSource;
+        private GestionCCTableAdapters.FormaPagoTableAdapter formaPagoTableAdapter;
     }
 }
