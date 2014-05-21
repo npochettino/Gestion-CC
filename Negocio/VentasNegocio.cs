@@ -32,9 +32,9 @@ namespace Negocio
            CadVentas.AgregarVenta(idCliente, DtmFechaVenta, Efectivo, Cheque, Tarjeta, CuentaCorriente);
        }
 
-       public void CancelarVenta(int IntId_Venta, int IntId_Cliente, float FltImporteTotal,string FormaPago)
+       public void CancelarVenta(int IntId_Venta, int IntId_Cliente)
        {
-           CadVentas.CancelarVenta(IntId_Venta, IntId_Cliente, FltImporteTotal,FormaPago);
+           CadVentas.CancelarVenta(IntId_Venta, IntId_Cliente);
        }
 
        

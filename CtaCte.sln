@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Negocio", "Negocio\Negocio.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Presentacion", "Presentacion\Presentacion.csproj", "{E7B26E5D-FBB4-449C-A965-AE341F4E37CB}"
 EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Sinergia", "Sinergia\Sinergia.vdproj", "{8BB03D3D-3E73-4BE8-84AC-DFF19C9FD1F7}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,12 +47,6 @@ Global
 		{E7B26E5D-FBB4-449C-A965-AE341F4E37CB}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{E7B26E5D-FBB4-449C-A965-AE341F4E37CB}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E7B26E5D-FBB4-449C-A965-AE341F4E37CB}.Release|x86.ActiveCfg = Release|Any CPU
-		{8BB03D3D-3E73-4BE8-84AC-DFF19C9FD1F7}.Debug|Any CPU.ActiveCfg = Debug
-		{8BB03D3D-3E73-4BE8-84AC-DFF19C9FD1F7}.Debug|Mixed Platforms.ActiveCfg = Debug
-		{8BB03D3D-3E73-4BE8-84AC-DFF19C9FD1F7}.Debug|x86.ActiveCfg = Debug
-		{8BB03D3D-3E73-4BE8-84AC-DFF19C9FD1F7}.Release|Any CPU.ActiveCfg = Release
-		{8BB03D3D-3E73-4BE8-84AC-DFF19C9FD1F7}.Release|Mixed Platforms.ActiveCfg = Release
-		{8BB03D3D-3E73-4BE8-84AC-DFF19C9FD1F7}.Release|x86.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

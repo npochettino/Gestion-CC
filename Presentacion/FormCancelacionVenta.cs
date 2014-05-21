@@ -81,7 +81,7 @@ namespace Presentacion
                 string strFechaCancelacion = this.txtFechaCancelacion.Text;
                 string FormaPago = formaPago;
                 
-                CadVenta.CancelarVenta(IntId_Venta,IntId_Cliente,FltImporteTotal,FormaPago);
+                CadVenta.CancelarVenta(IntId_Venta,IntId_Cliente);
 
                 
     

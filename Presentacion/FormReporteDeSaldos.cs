@@ -21,7 +21,7 @@ namespace Presentacion
 
         private void btnEmitirReporte_Click(object sender, EventArgs e)
         {
-            
+
             EmitirReporte();
         }
 
@@ -33,13 +33,15 @@ namespace Presentacion
 
             //rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\ReporteSaldos.rpt");
 
-            
-            rpt.SetDatabaseLogon("saftec", "ana");
+
+            CrystalRules Conexion = new CrystalRules();
+            //Se llama al metodo apply que configura todos los datos de conexion por medio del app.config
+            rpt = Conexion.ApplyInfo(rpt);
             crystalReportViewer1.ReportSource = rpt;
             crystalReportViewer1.Refresh();
- 
-           
-        
+
+
+
         }
     }
 }

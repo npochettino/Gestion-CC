@@ -2940,6 +2940,12 @@ namespace Presentacion {
             
             private global::System.Data.DataColumn columnHora;
             
+            private global::System.Data.DataColumn columnidVenta;
+            
+            private global::System.Data.DataColumn columnImporteTotal;
+            
+            private global::System.Data.DataColumn columnId_Cliente;
+            
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public VentaDataTable() {
@@ -3007,6 +3013,30 @@ namespace Presentacion {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public global::System.Data.DataColumn idVentaColumn {
+                get {
+                    return this.columnidVenta;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public global::System.Data.DataColumn ImporteTotalColumn {
+                get {
+                    return this.columnImporteTotal;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public global::System.Data.DataColumn Id_ClienteColumn {
+                get {
+                    return this.columnId_Cliente;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             [global::System.ComponentModel.Browsable(false)]
             public int Count {
                 get {
@@ -3042,13 +3072,16 @@ namespace Presentacion {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
-            public VentaRow AddVentaRow(string descripcionFormaPago, decimal Importe, System.DateTime FechaVenta, string Hora) {
+            public VentaRow AddVentaRow(string descripcionFormaPago, decimal Importe, System.DateTime FechaVenta, string Hora, int idVenta, double ImporteTotal, int Id_Cliente) {
                 VentaRow rowVentaRow = ((VentaRow)(this.NewRow()));
                 object[] columnValuesArray = new object[] {
                         descripcionFormaPago,
                         Importe,
                         FechaVenta,
-                        Hora};
+                        Hora,
+                        idVenta,
+                        ImporteTotal,
+                        Id_Cliente};
                 rowVentaRow.ItemArray = columnValuesArray;
                 this.Rows.Add(rowVentaRow);
                 return rowVentaRow;
@@ -3075,6 +3108,9 @@ namespace Presentacion {
                 this.columnImporte = base.Columns["Importe"];
                 this.columnFechaVenta = base.Columns["FechaVenta"];
                 this.columnHora = base.Columns["Hora"];
+                this.columnidVenta = base.Columns["idVenta"];
+                this.columnImporteTotal = base.Columns["ImporteTotal"];
+                this.columnId_Cliente = base.Columns["Id_Cliente"];
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -3088,12 +3124,20 @@ namespace Presentacion {
                 base.Columns.Add(this.columnFechaVenta);
                 this.columnHora = new global::System.Data.DataColumn("Hora", typeof(string), null, global::System.Data.MappingType.Element);
                 base.Columns.Add(this.columnHora);
+                this.columnidVenta = new global::System.Data.DataColumn("idVenta", typeof(int), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnidVenta);
+                this.columnImporteTotal = new global::System.Data.DataColumn("ImporteTotal", typeof(double), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnImporteTotal);
+                this.columnId_Cliente = new global::System.Data.DataColumn("Id_Cliente", typeof(int), null, global::System.Data.MappingType.Element);
+                base.Columns.Add(this.columnId_Cliente);
                 this.columndescripcionFormaPago.AllowDBNull = false;
                 this.columndescripcionFormaPago.MaxLength = 50;
                 this.columnImporte.AllowDBNull = false;
                 this.columnFechaVenta.AllowDBNull = false;
                 this.columnHora.ReadOnly = true;
                 this.columnHora.MaxLength = 30;
+                this.columnidVenta.AllowDBNull = false;
+                this.columnId_Cliente.AllowDBNull = false;
             }
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
@@ -8272,6 +8316,44 @@ namespace Presentacion {
             
             [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public int idVenta {
+                get {
+                    return ((int)(this[this.tableVenta.idVentaColumn]));
+                }
+                set {
+                    this[this.tableVenta.idVentaColumn] = value;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public double ImporteTotal {
+                get {
+                    try {
+                        return ((double)(this[this.tableVenta.ImporteTotalColumn]));
+                    }
+                    catch (global::System.InvalidCastException e) {
+                        throw new global::System.Data.StrongTypingException("El valor de la columna \'ImporteTotal\' de la tabla \'Venta\' es DBNull.", e);
+                    }
+                }
+                set {
+                    this[this.tableVenta.ImporteTotalColumn] = value;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public int Id_Cliente {
+                get {
+                    return ((int)(this[this.tableVenta.Id_ClienteColumn]));
+                }
+                set {
+                    this[this.tableVenta.Id_ClienteColumn] = value;
+                }
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public bool IsHoraNull() {
                 return this.IsNull(this.tableVenta.HoraColumn);
             }
@@ -8280,6 +8362,18 @@ namespace Presentacion {
             [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
             public void SetHoraNull() {
                 this[this.tableVenta.HoraColumn] = global::System.Convert.DBNull;
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public bool IsImporteTotalNull() {
+                return this.IsNull(this.tableVenta.ImporteTotalColumn);
+            }
+            
+            [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+            [global::System.CodeDom.Compiler.GeneratedCodeAttribute("System.Data.Design.TypedDataSetGenerator", "4.0.0.0")]
+            public void SetImporteTotalNull() {
+                this[this.tableVenta.ImporteTotalColumn] = global::System.Convert.DBNull;
             }
         }
         
@@ -12535,6 +12629,9 @@ SELECT Id_Usuario, Usuario, Contrasenia, TipoUsuario FROM Usuario WHERE (Id_Usua
             tableMapping.ColumnMappings.Add("Importe", "Importe");
             tableMapping.ColumnMappings.Add("FechaVenta", "FechaVenta");
             tableMapping.ColumnMappings.Add("Hora", "Hora");
+            tableMapping.ColumnMappings.Add("idVenta", "idVenta");
+            tableMapping.ColumnMappings.Add("ImporteTotal", "ImporteTotal");
+            tableMapping.ColumnMappings.Add("Id_Cliente", "Id_Cliente");
             this._adapter.TableMappings.Add(tableMapping);
         }
         
@@ -12551,7 +12648,8 @@ SELECT Id_Usuario, Usuario, Contrasenia, TipoUsuario FROM Usuario WHERE (Id_Usua
             this._commandCollection = new global::System.Data.SqlClient.SqlCommand[1];
             this._commandCollection[0] = new global::System.Data.SqlClient.SqlCommand();
             this._commandCollection[0].Connection = this.Connection;
-            this._commandCollection[0].CommandText = @"SELECT        FormaPago.descripcionFormaPago, VentaFormaPago.Importe, Venta.FechaVenta, CONVERT(varchar, Venta.FechaVenta, 108) AS Hora
+            this._commandCollection[0].CommandText = @"SELECT        FormaPago.descripcionFormaPago, VentaFormaPago.Importe, Venta.FechaVenta, CONVERT(varchar, Venta.FechaVenta, 108) AS Hora, 
+                         VentaFormaPago.idVenta, Venta.ImporteTotal, Venta.Id_Cliente
 FROM            Venta INNER JOIN
                          VentaFormaPago ON Venta.Id_Venta = VentaFormaPago.idVenta INNER JOIN
                          FormaPago ON VentaFormaPago.idFormaPago = FormaPago.idFormaPago

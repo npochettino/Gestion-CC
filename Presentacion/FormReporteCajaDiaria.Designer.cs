@@ -134,7 +134,7 @@
             this.Name = "FormReporteCajaDiaria";
             this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Reporte de Pagos Efectuados";
+            this.Text = "Reporte de Ingresos/Egresos de caja";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.FormReportePago_Load);
             this.tableLayoutPanel1.ResumeLayout(false);

@@ -59,8 +59,10 @@ namespace Presentacion
 
 
 
-            
-            rpt.SetDatabaseLogon("saftec", "ana");
+
+            CrystalRules Conexion = new CrystalRules();
+            //Se llama al metodo apply que configura todos los datos de conexion por medio del app.config
+            rpt = Conexion.ApplyInfo(rpt);
             crystalReportViewer1.ReportSource = rpt;
             crystalReportViewer1.Refresh(); 
         
