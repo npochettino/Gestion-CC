@@ -45,6 +45,7 @@
             this.colImporte = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colFechaVenta = new DevExpress.XtraGrid.Columns.GridColumn();
             this.colHora = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.Total = new DevExpress.XtraGrid.Columns.GridColumn();
             this.navBarControl1 = new DevExpress.XtraNavBar.NavBarControl();
             this.navBarGroup1 = new DevExpress.XtraNavBar.NavBarGroup();
             this.nbiNuevaVenta = new DevExpress.XtraNavBar.NavBarItem();
@@ -55,6 +56,7 @@
             this.LblNombreCLiente = new DevExpress.XtraEditors.LabelControl();
             this.lblCliente = new DevExpress.XtraEditors.LabelControl();
             this.ventaTableAdapter = new Presentacion.GestionCCTableAdapters.VentaTableAdapter();
+            this.nbiDetalle = new DevExpress.XtraNavBar.NavBarItem();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             this.tableLayoutPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgvVentas)).BeginInit();
@@ -172,7 +174,8 @@
             this.coldescripcionFormaPago,
             this.colImporte,
             this.colFechaVenta,
-            this.colHora});
+            this.colHora,
+            this.Total});
             this.gridView1.GridControl = this.dgvVentas;
             this.gridView1.GroupCount = 2;
             this.gridView1.Name = "gridView1";
@@ -186,6 +189,9 @@
             this.coldescripcionFormaPago.Caption = "Forma Pago";
             this.coldescripcionFormaPago.FieldName = "descripcionFormaPago";
             this.coldescripcionFormaPago.Name = "coldescripcionFormaPago";
+            this.coldescripcionFormaPago.OptionsColumn.AllowEdit = false;
+            this.coldescripcionFormaPago.OptionsColumn.AllowFocus = false;
+            this.coldescripcionFormaPago.OptionsColumn.ReadOnly = true;
             this.coldescripcionFormaPago.Visible = true;
             this.coldescripcionFormaPago.VisibleIndex = 0;
             // 
@@ -193,6 +199,9 @@
             // 
             this.colImporte.FieldName = "Importe";
             this.colImporte.Name = "colImporte";
+            this.colImporte.OptionsColumn.AllowEdit = false;
+            this.colImporte.OptionsColumn.AllowFocus = false;
+            this.colImporte.OptionsColumn.ReadOnly = true;
             this.colImporte.Visible = true;
             this.colImporte.VisibleIndex = 1;
             // 
@@ -200,6 +209,9 @@
             // 
             this.colFechaVenta.FieldName = "FechaVenta";
             this.colFechaVenta.Name = "colFechaVenta";
+            this.colFechaVenta.OptionsColumn.AllowEdit = false;
+            this.colFechaVenta.OptionsColumn.AllowFocus = false;
+            this.colFechaVenta.OptionsColumn.ReadOnly = true;
             this.colFechaVenta.Visible = true;
             this.colFechaVenta.VisibleIndex = 2;
             // 
@@ -207,9 +219,19 @@
             // 
             this.colHora.FieldName = "Hora";
             this.colHora.Name = "colHora";
-            this.colHora.OptionsColumn.ReadOnly = true;
+            this.colHora.OptionsColumn.AllowEdit = false;
+            this.colHora.OptionsColumn.AllowFocus = false;
             this.colHora.Visible = true;
             this.colHora.VisibleIndex = 2;
+            // 
+            // Total
+            // 
+            this.Total.Caption = "Total";
+            this.Total.FieldName = "ImporteTotal";
+            this.Total.Name = "Total";
+            this.Total.OptionsColumn.AllowEdit = false;
+            this.Total.OptionsColumn.AllowFocus = false;
+            this.Total.OptionsColumn.ReadOnly = true;
             // 
             // navBarControl1
             // 
@@ -221,7 +243,8 @@
             this.nbiModificarVenta,
             this.nbiNuevaVenta,
             this.nbiCancelarVenta,
-            this.nbiEmitirInforme});
+            this.nbiEmitirInforme,
+            this.nbiDetalle});
             this.navBarControl1.Location = new System.Drawing.Point(3, 33);
             this.navBarControl1.Name = "navBarControl1";
             this.navBarControl1.OptionsNavPane.ExpandedWidth = 188;
@@ -237,7 +260,8 @@
             new DevExpress.XtraNavBar.NavBarItemLink(this.nbiNuevaVenta),
             new DevExpress.XtraNavBar.NavBarItemLink(this.nbiModificarVenta),
             new DevExpress.XtraNavBar.NavBarItemLink(this.nbiCancelarVenta),
-            new DevExpress.XtraNavBar.NavBarItemLink(this.nbiEmitirInforme)});
+            new DevExpress.XtraNavBar.NavBarItemLink(this.nbiEmitirInforme),
+            new DevExpress.XtraNavBar.NavBarItemLink(this.nbiDetalle)});
             this.navBarGroup1.Name = "navBarGroup1";
             // 
             // nbiNuevaVenta
@@ -289,7 +313,7 @@
             this.LblNombreCLiente.Size = new System.Drawing.Size(70, 13);
             this.LblNombreCLiente.TabIndex = 9;
             this.LblNombreCLiente.Text = "NombreCliente";
-            this.LblNombreCLiente.Click += new System.EventHandler(this.la);
+
             // 
             // lblCliente
             // 
@@ -303,6 +327,12 @@
             // ventaTableAdapter
             // 
             this.ventaTableAdapter.ClearBeforeFill = true;
+            // 
+            // nbiDetalle
+            // 
+            this.nbiDetalle.Caption = "Detalle Venta";
+            this.nbiDetalle.Name = "nbiDetalle";
+            this.nbiDetalle.LinkClicked += new DevExpress.XtraNavBar.NavBarLinkEventHandler(this.nbiDetalle_LinkClicked);
             // 
             // FormVentasCliente
             // 
@@ -361,5 +391,7 @@
         private DevExpress.XtraGrid.Columns.GridColumn colImporte;
         private DevExpress.XtraGrid.Columns.GridColumn colFechaVenta;
         private DevExpress.XtraGrid.Columns.GridColumn colHora;
+        private DevExpress.XtraGrid.Columns.GridColumn Total;
+        private DevExpress.XtraNavBar.NavBarItem nbiDetalle;
     }
 }

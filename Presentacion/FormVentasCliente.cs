@@ -30,9 +30,9 @@ namespace Presentacion
 
 
         public string strNombreCliente
-        { 
-          get {return StrNombreCliente; }
-          set { StrNombreCliente = value; }
+        {
+            get { return StrNombreCliente; }
+            set { StrNombreCliente = value; }
         }
 
         public string strApellidoCliente
@@ -54,7 +54,7 @@ namespace Presentacion
             formVenta.IdCliente = IntIdCliente;
             formVenta.strApellidoCliente = StrApellidoCliente;
             formVenta.strNombreCliente = StrNombreCliente;
-            
+
 
             formVenta.ShowDialog();
 
@@ -83,7 +83,7 @@ namespace Presentacion
         {
             int[] selRows = ((GridView)this.dgvVentas.MainView).GetSelectedRows();
 
-           if( XtraMessageBox.Show("¿Está seguro que desea eliminar la venta?", "Pregunta", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+            if (XtraMessageBox.Show("¿Está seguro que desea eliminar la venta?", "Pregunta", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
             {
 
 
@@ -94,13 +94,13 @@ namespace Presentacion
                     DataRowView selRow = (DataRowView)(((GridView)dgvVentas.MainView).GetRow(selRows[0]));
 
 
-                    int id_cliente = Convert.ToInt32(selRow[1]);
-                    int IntId_Venta = Convert.ToInt32(selRow[0]);
-                    float fltImporteTotal = float.Parse(selRow[3].ToString());
+                    int id_cliente = Convert.ToInt32(selRow[6]);
+                    int IntId_Venta = Convert.ToInt32(selRow[4]);
+                    float fltImporteTotal = float.Parse(selRow[5].ToString());
 
                     string FormaPago = selRow[4].ToString();
 
-                    CadVenta.CancelarVenta(IntId_Venta, id_cliente, fltImporteTotal, FormaPago);
+                    CadVenta.CancelarVenta(IntId_Venta, id_cliente);
 
 
                     XtraMessageBox.Show("Se ha eliminado la venta correctamente", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -115,21 +115,17 @@ namespace Presentacion
                 }
 
             }
-            
-            }
+
+        }
 
         public void FormVentasCliente_Load(object sender, EventArgs e)
         {
             // TODO: esta línea de código carga datos en la tabla 'gestionCC.Venta' Puede moverla o quitarla según sea necesario.
-            this.ventaTableAdapter.Fill(this.gestionCC.Venta,idCliente);
-           
+            this.ventaTableAdapter.Fill(this.gestionCC.Venta, idCliente);
+
             LblNombreCLiente.Text = strApellidoCliente + " " + strNombreCliente;
         }
 
-        private void la(object sender, EventArgs e)
-        {
-
-        }
 
 
 
@@ -140,7 +136,7 @@ namespace Presentacion
 
         private void nbiEmitirInforme_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
         {
-            
+
             int[] selRows = ((GridView)this.dgvVentas.MainView).GetSelectedRows();
 
             if (selRows.Length != 0)
@@ -150,6 +146,28 @@ namespace Presentacion
                 //FormReporteVenta frmReporteVenta = new FormReporteVenta();
                 //frmReporteVenta.ShowDialog();
             }
+        }
+
+        private void nbiDetalle_LinkClicked(object sender, DevExpress.XtraNavBar.NavBarLinkEventArgs e)
+        {
+            //Se utiliza para mostrar un detalle de los articulos llevados en esa venta
+
+            int[] selRows = ((GridView)this.dgvVentas.MainView).GetSelectedRows();
+
+            DataRowView selRow = (DataRowView)(((GridView)dgvVentas.MainView).GetRow(selRows[0]));
+
+
+                    int id_cliente = Convert.ToInt32(selRow[6]);
+                    int Id_Venta = Convert.ToInt32(selRow[4]);
+                    float fltImporteTotal = float.Parse(selRow[5].ToString());
+
+                    Presentacion.FormDetalleVenta VentanaDetalle = new FormDetalleVenta(Id_Venta);
+                    VentanaDetalle.IdVenta = Id_Venta;
+
+                    VentanaDetalle.ShowDialog();
+
+
+
         }
     }
 }

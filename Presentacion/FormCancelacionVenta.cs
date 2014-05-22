@@ -9,7 +9,7 @@ using DevExpress.XtraEditors;
 
 namespace Presentacion
 {
-    public partial class FormCancelacionVenta :DevExpress.XtraEditors.XtraForm
+    public partial class FormCancelacionVenta : DevExpress.XtraEditors.XtraForm
     {
         Negocio.VentasNegocio CadVenta = new Negocio.VentasNegocio();
 
@@ -28,9 +28,8 @@ namespace Presentacion
         }
 
         public string formaPago
-        
         {
-    
+
 
             get { return FormaPago; }
             set { FormaPago = value; }
@@ -59,7 +58,7 @@ namespace Presentacion
 
 
 
-        
+
         public FormCancelacionVenta()
         {
             InitializeComponent();
@@ -80,21 +79,21 @@ namespace Presentacion
                 string strMotivoCancelacion = this.txtMotivoCancelacion.Text;
                 string strFechaCancelacion = this.txtFechaCancelacion.Text;
                 string FormaPago = formaPago;
-                
-                CadVenta.CancelarVenta(IntId_Venta,IntId_Cliente);
 
-                
-    
+                CadVenta.CancelarVenta(IntId_Venta, IntId_Cliente);
+
+
+
             }
 
 
 
             XtraMessageBox.Show("Se ha eliminado la venta correctamente", "Informacion", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
-            
 
-            
-        } 
+
+
+        }
 
 
         private bool validarDatosFormulario()
@@ -127,6 +126,6 @@ namespace Presentacion
             //FormVentaCliene.ActualizarGrillaVenta();
         }
 
-        
+
     }
 }
