@@ -7,7 +7,7 @@ using System.Text;
 using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using DevExpress.XtraGrid.Views.Grid;
-
+using System.Net.Mail;
 namespace Presentacion
 {
     public partial class FormAMVenta : DevExpress.XtraEditors.XtraForm
@@ -318,6 +318,40 @@ namespace Presentacion
 
             this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
 
+            EnviarCorreo();
+
+        }
+
+        private void EnviarCorreo()
+        {
+            try
+            {
+
+                Presentacion.Correo Cr = new Correo();
+
+                MailMessage mnsj = new MailMessage();
+
+                mnsj.Subject = "Agradecemos tu Venta";
+
+                mnsj.To.Add(new MailAddress("martindiguilio@hotmail.com"));
+
+                mnsj.From = new MailAddress("martin.diguilio@ecloudsolutions.com", "Martin Diguilio");
+
+                ///* Si deseamos Adjuntar algún archivo*/
+                //mnsj.Attachments.Add(new Attachment("C:\\archivo.pdf"));
+
+                mnsj.Body = "  Mensaje de Prueba \n\n Enviado desde C#\n\n *VER EL ARCHIVO ADJUNTO*";
+
+                /* Enviar */
+                Cr.MandarCorreo(mnsj);
+               
+
+                MessageBox.Show("El Mail se ha Enviado Correctamente", "Listo!!", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.ToString());
+            }
         }
 
         private void AsignarValores()

@@ -35,38 +35,69 @@ namespace Presentacion
 
         private void btnEmitirReporte_Click(object sender, EventArgs e)
         {
-            
+
             EmitirReporte();
         }
 
         private void EmitirReporte()
         {
-            
+
             ReportDocument rpt = new ReportDocument();
 
             string ruta = Path.Combine(Application.StartupPath, "ReportedeVentas.rpt");
             string ruta2 = Path.Combine(Application.StartupPath, "ReportedeVentasOperador.rpt");
-            
+
 
             if (Privilegio == "Administrador")
             {
                 //rpt.Load(ruta);
-                rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\ReportedeVentas.rpt");
+                rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\ReporteVentas.rpt");
             }
-            else 
+            else
             {
                 rpt.Load(ruta2);
                 //rpt.Load(@"C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\ReportedeVentasOperador.rpt");            
             }
-            
+
             string desde = dtpDesde.Value.ToString();
             string hasta = dtpHasta.Value.ToString();
-            int Id_FormaPago = Convert.ToInt16(cbxTipoVenta.SelectedValue);
 
-            
+            int[] FormasPago = new int[4];
+
            
-
             
+            
+            if (chkEfectivo.Checked)
+            {
+                FormasPago[0] = 4;
+                FormasPago[1] = 4;
+                FormasPago[2] = 4;
+                FormasPago[3] = 4;
+            }
+            if (chkCtaCte.Checked)
+            {
+
+                FormasPago[1] = 1;
+
+            }
+
+            if (chkTarjeta.Checked)
+            {
+                FormasPago[2] = 2;
+            }
+
+            if (chkCheque.Checked)
+            {
+                FormasPago[3] = 3;
+
+            }
+
+
+
+
+
+
+
 
             /// Aca comparo con el primer DataPicker la fecha desde
             ParameterFieldDefinitions crParameterFieldDefinitions1;
@@ -90,7 +121,7 @@ namespace Presentacion
             ParameterValues crParameterValues2 = new ParameterValues();
             ParameterDiscreteValue crParameterDiscreteValue2 = new ParameterDiscreteValue();
 
-            crParameterDiscreteValue2.Value = hasta;
+            crParameterDiscreteValue2.Value = hasta; ;
             crParameterFieldDefinitions2 = rpt.DataDefinition.ParameterFields;
             crParameterFieldDefinition2 = crParameterFieldDefinitions2["Hasta"];
 
@@ -101,50 +132,24 @@ namespace Presentacion
             crParameterFieldDefinition2.ApplyCurrentValues(crParameterValues2);
 
 
-            ///Aca comparo el Combobox para filtrar por Cliente
-            ParameterFieldDefinitions crParameterFieldDefinitions;
-            ParameterFieldDefinition crParameterFieldDefinition;
-            ParameterValues crParameterValues = new ParameterValues();
-            ParameterDiscreteValue crParameterDiscreteValue = new ParameterDiscreteValue();
 
-            crParameterDiscreteValue.Value = IdCliente;
-            crParameterFieldDefinitions = rpt.DataDefinition.ParameterFields;
-            crParameterFieldDefinition = crParameterFieldDefinitions["ClienteDesde"];
-            crParameterValues = crParameterFieldDefinition.CurrentValues;
-
-            crParameterValues.Clear();
-            crParameterValues.Add(crParameterDiscreteValue);
-            crParameterFieldDefinition.ApplyCurrentValues(crParameterValues);
-
-            ///Aca comparo el Combobox para filtrar por Cliente
-            ParameterFieldDefinitions crParameterFieldDefinitions4;
-            ParameterFieldDefinition crParameterFieldDefinition4;
-            ParameterValues crParameterValues4 = new ParameterValues();
-            ParameterDiscreteValue crParameterDiscreteValue4 = new ParameterDiscreteValue();
-
-            crParameterDiscreteValue4.Value = IdCliente;
-            crParameterFieldDefinitions4 = rpt.DataDefinition.ParameterFields;
-            crParameterFieldDefinition4 = crParameterFieldDefinitions4["ClienteHasta"];
-            crParameterValues4 = crParameterFieldDefinition4.CurrentValues;
-
-            crParameterValues4.Clear();
-            crParameterValues4.Add(crParameterDiscreteValue4);
-            crParameterFieldDefinition4.ApplyCurrentValues(crParameterValues4);
 
             ///Aca comparo el Combobox para filtrar por FormaPago
-            ParameterFieldDefinitions crParameterFieldDefinitions5;
-            ParameterFieldDefinition crParameterFieldDefinition5;
-            ParameterValues crParameterValues5 = new ParameterValues();
-            ParameterDiscreteValue crParameterDiscreteValue5 = new ParameterDiscreteValue();
+            //ParameterFieldDefinitions crParameterFieldDefinitions5;
+            //ParameterFieldDefinition crParameterFieldDefinition5;
+            //ParameterValues crParameterValues5 = new ParameterValues();
+            //ParameterDiscreteValue crParameterDiscreteValue5 = new ParameterDiscreteValue();
+           
 
-            crParameterDiscreteValue5.Value = Id_FormaPago;
-            crParameterFieldDefinitions5 = rpt.DataDefinition.ParameterFields;
-            crParameterFieldDefinition5 = crParameterFieldDefinitions5["FormaPago"];
-            crParameterValues4 = crParameterFieldDefinition5.CurrentValues;
+            //crParameterDiscreteValue5.Value = FormasPago;
+            
+            //crParameterFieldDefinitions5 = rpt.DataDefinition.ParameterFields;
+            //crParameterFieldDefinition5 = crParameterFieldDefinitions5["FormaPago"];
+            //crParameterValues5 = crParameterFieldDefinition5.CurrentValues;
 
-            crParameterValues5.Clear();
-            crParameterValues5.Add(crParameterDiscreteValue5);
-            crParameterFieldDefinition5.ApplyCurrentValues(crParameterValues5);
+            //crParameterValues5.Clear();
+            //crParameterValues5.Add(crParameterDiscreteValue5);
+            //crParameterFieldDefinition5.ApplyCurrentValues(crParameterValues5);
 
 
 
@@ -152,8 +157,8 @@ namespace Presentacion
             //Se llama al metodo apply que configura todos los datos de conexion por medio del app.config
             rpt = Conexion.ApplyInfo(rpt);
             crystalReportViewer2.ReportSource = rpt;
-            crystalReportViewer2.Refresh(); 
-        
+            crystalReportViewer2.Refresh();
+
         }
 
         private void pictureBox1_Click(object sender, EventArgs e)
@@ -164,13 +169,13 @@ namespace Presentacion
         private void SeleccionarCliente()
         {
             FormGrillaClientes GrillaCliente = new FormGrillaClientes();
-            
+
             GrillaCliente.ShowDialog();
         }
 
 
 
-        internal void CargarSeleeccion(int IntId_Cliente,string strApellido, string strNombre)
+        internal void CargarSeleeccion(int IntId_Cliente, string strApellido, string strNombre)
         {
             Negocio.ParametrosCliente Parametro = new Negocio.ParametrosCliente();
             string StrApellidoCliente = Parametro.strApellidoCliente;
@@ -180,17 +185,17 @@ namespace Presentacion
             //txtClienteDesde.Text = StrApellidoCliente + " " + StrNombreCliente;
 
             //txtClienteDesde.Update();
-            
+
 
 
             //txtClienteHasta.Text = StrApellidoCliente + " " + StrNombreCliente;
-           // txtClienteHasta.Refresh();
+            // txtClienteHasta.Refresh();
 
 
-           
+
         }
 
-        
+
 
 
 
@@ -203,9 +208,9 @@ namespace Presentacion
 
         private void FormReporteVentas_Load(object sender, EventArgs e)
         {
-            // TODO: esta línea de código carga datos en la tabla 'gestionCC.FormaPago' Puede moverla o quitarla según sea necesario.
-            this.formaPagoTableAdapter.Fill(this.gestionCC.FormaPago);
-            cbxTipoVenta.Text = "Todo";
+            //    // TODO: esta línea de código carga datos en la tabla 'gestionCC.FormaPago' Puede moverla o quitarla según sea necesario.
+            //    this.formaPagoTableAdapter.Fill(this.gestionCC.FormaPago);
+            //    cbxTipoVenta.Text = "Todo";
         }
     }
 }

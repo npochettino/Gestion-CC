@@ -135,3 +135,4 @@ C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Datos\bin\Debug\Da
 C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Datos\bin\Debug\Datos.pdb
 C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Datos\obj\Debug\Datos.dll
 C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Datos\obj\Debug\Datos.pdb
+C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Datos\obj\Debug\Datos.csprojResolveAssemblyReference.cache

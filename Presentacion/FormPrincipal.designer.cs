@@ -41,6 +41,7 @@
             DevExpress.XtraEditors.TileItemElement tileItemElement10 = new DevExpress.XtraEditors.TileItemElement();
             DevExpress.XtraEditors.TileItemElement tileItemElement11 = new DevExpress.XtraEditors.TileItemElement();
             DevExpress.XtraEditors.TileItemElement tileItemElement12 = new DevExpress.XtraEditors.TileItemElement();
+            DevExpress.XtraEditors.TileItemElement tileItemElement13 = new DevExpress.XtraEditors.TileItemElement();
             this.barManager1 = new DevExpress.XtraBars.BarManager(this.components);
             this.bar2 = new DevExpress.XtraBars.Bar();
             this.barLinkContainerItem1 = new DevExpress.XtraBars.BarLinkContainerItem();
@@ -71,6 +72,7 @@
             this.tileItem11 = new DevExpress.XtraEditors.TileItem();
             this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
+            this.tlItemConfig = new DevExpress.XtraEditors.TileItem();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -187,7 +189,7 @@
             this.tileControl1.Groups.Add(this.tileGroup3);
             this.tileControl1.Groups.Add(this.tileGroup4);
             this.tileControl1.Location = new System.Drawing.Point(0, 22);
-            this.tileControl1.MaxId = 21;
+            this.tileControl1.MaxId = 22;
             this.tileControl1.Name = "tileControl1";
             this.tileControl1.Size = new System.Drawing.Size(885, 360);
             this.tileControl1.TabIndex = 5;
@@ -355,6 +357,7 @@
             this.tileGroup4.Items.Add(this.tileItem9);
             this.tileGroup4.Items.Add(this.tileItem10);
             this.tileGroup4.Items.Add(this.tileItem11);
+            this.tileGroup4.Items.Add(this.tlItemConfig);
             this.tileGroup4.Name = "tileGroup4";
             this.tileGroup4.Text = null;
             // 
@@ -418,6 +421,19 @@
             // 
             this.helpProvider1.HelpNamespace = "Path.Combine(Application.StartupPath, \"ayuda.chm\")";
             // 
+            // tlItemConfig
+            // 
+            this.tlItemConfig.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tlItemConfig.AppearanceItem.Normal.Options.UseFont = true;
+            this.tlItemConfig.AppearanceItem.Normal.Options.UseTextOptions = true;
+            this.tlItemConfig.AppearanceItem.Normal.TextOptions.HAlignment = DevExpress.Utils.HorzAlignment.Center;
+            this.tlItemConfig.AppearanceItem.Normal.TextOptions.VAlignment = DevExpress.Utils.VertAlignment.Center;
+            tileItemElement13.Text = "Config";
+            tileItemElement13.TextAlignment = DevExpress.XtraEditors.TileItemContentAlignment.MiddleLeft;
+            this.tlItemConfig.Elements.Add(tileItemElement13);
+            this.tlItemConfig.Id = 21;
+            this.tlItemConfig.Name = "tlItemConfig";
+            // 
             // FormPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -470,5 +486,6 @@
         private DevExpress.XtraEditors.TileGroup tileGroup4;
         private DevExpress.XtraEditors.TileItem tileItem10;
         private DevExpress.XtraEditors.TileItem tileItem11;
+        private DevExpress.XtraEditors.TileItem tlItemConfig;
     }
 }

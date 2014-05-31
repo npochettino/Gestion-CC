@@ -33,25 +33,28 @@
             this.btnEmitir = new DevExpress.XtraEditors.SimpleButton();
             this.tableLayoutPanel1 = new System.Windows.Forms.TableLayoutPanel();
             this.tableLayoutPanel2 = new System.Windows.Forms.TableLayoutPanel();
-            this.tableLayoutPanel3 = new System.Windows.Forms.TableLayoutPanel();
-            this.cbxTipoVenta = new System.Windows.Forms.ComboBox();
-            this.label3 = new System.Windows.Forms.Label();
+            this.formaPagoBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.gestionCC = new Presentacion.GestionCC();
             this.tableLayoutPanel4 = new System.Windows.Forms.TableLayoutPanel();
             this.label1 = new System.Windows.Forms.Label();
             this.dtpDesde = new System.Windows.Forms.DateTimePicker();
             this.tableLayoutPanel5 = new System.Windows.Forms.TableLayoutPanel();
             this.label2 = new System.Windows.Forms.Label();
             this.dtpHasta = new System.Windows.Forms.DateTimePicker();
-            this.gestionCC = new Presentacion.GestionCC();
-            this.formaPagoBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.formaPagoTableAdapter = new Presentacion.GestionCCTableAdapters.FormaPagoTableAdapter();
+            this.tableLayoutPanel6 = new System.Windows.Forms.TableLayoutPanel();
+            this.label4 = new System.Windows.Forms.Label();
+            this.chkEfectivo = new System.Windows.Forms.CheckBox();
+            this.chkCtaCte = new System.Windows.Forms.CheckBox();
+            this.chkTarjeta = new System.Windows.Forms.CheckBox();
+            this.chkCheque = new System.Windows.Forms.CheckBox();
             this.tableLayoutPanel1.SuspendLayout();
             this.tableLayoutPanel2.SuspendLayout();
-            this.tableLayoutPanel3.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.formaPagoBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gestionCC)).BeginInit();
             this.tableLayoutPanel4.SuspendLayout();
             this.tableLayoutPanel5.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gestionCC)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.formaPagoBindingSource)).BeginInit();
+            this.tableLayoutPanel6.SuspendLayout();
             this.SuspendLayout();
             // 
             // crystalReportViewer2
@@ -60,16 +63,16 @@
             this.crystalReportViewer2.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
             this.crystalReportViewer2.Cursor = System.Windows.Forms.Cursors.Default;
             this.crystalReportViewer2.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.crystalReportViewer2.Location = new System.Drawing.Point(3, 91);
+            this.crystalReportViewer2.Location = new System.Drawing.Point(3, 139);
             this.crystalReportViewer2.Name = "crystalReportViewer2";
-            this.crystalReportViewer2.Size = new System.Drawing.Size(861, 493);
+            this.crystalReportViewer2.Size = new System.Drawing.Size(861, 445);
             this.crystalReportViewer2.TabIndex = 0;
             this.crystalReportViewer2.ToolPanelView = CrystalDecisions.Windows.Forms.ToolPanelViewType.None;
             // 
             // btnEmitir
             // 
             this.btnEmitir.Anchor = System.Windows.Forms.AnchorStyles.Right;
-            this.btnEmitir.Location = new System.Drawing.Point(697, 47);
+            this.btnEmitir.Location = new System.Drawing.Point(697, 69);
             this.btnEmitir.Margin = new System.Windows.Forms.Padding(3, 3, 50, 3);
             this.btnEmitir.Name = "btnEmitir";
             this.btnEmitir.Size = new System.Drawing.Size(114, 32);
@@ -87,7 +90,7 @@
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 2;
-            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 88F));
+            this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 136F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel1.Size = new System.Drawing.Size(867, 587);
             this.tableLayoutPanel1.TabIndex = 2;
@@ -96,60 +99,34 @@
             // 
             this.tableLayoutPanel2.ColumnCount = 7;
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 9.639954F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 32.9849F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 3.948897F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 34.14634F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 1.626016F));
             this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 0.9291521F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 31.24274F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 1.858304F));
-            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 19.27991F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 32.86876F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 0.9291521F));
+            this.tableLayoutPanel2.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 19.74448F));
             this.tableLayoutPanel2.Controls.Add(this.btnEmitir, 6, 1);
-            this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel3, 1, 1);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel4, 1, 0);
             this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel5, 4, 0);
+            this.tableLayoutPanel2.Controls.Add(this.tableLayoutPanel6, 4, 1);
             this.tableLayoutPanel2.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel2.Location = new System.Drawing.Point(3, 3);
             this.tableLayoutPanel2.Name = "tableLayoutPanel2";
             this.tableLayoutPanel2.RowCount = 2;
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 54.6875F));
-            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 45.3125F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(861, 82);
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 30.82707F));
+            this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 69.17294F));
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(861, 130);
             this.tableLayoutPanel2.TabIndex = 0;
             // 
-            // tableLayoutPanel3
+            // formaPagoBindingSource
             // 
-            this.tableLayoutPanel3.ColumnCount = 2;
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 31.29496F));
-            this.tableLayoutPanel3.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 68.70503F));
-            this.tableLayoutPanel3.Controls.Add(this.cbxTipoVenta, 1, 0);
-            this.tableLayoutPanel3.Controls.Add(this.label3, 0, 0);
-            this.tableLayoutPanel3.Location = new System.Drawing.Point(86, 47);
-            this.tableLayoutPanel3.Name = "tableLayoutPanel3";
-            this.tableLayoutPanel3.RowCount = 1;
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel3.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 32F));
-            this.tableLayoutPanel3.Size = new System.Drawing.Size(278, 32);
-            this.tableLayoutPanel3.TabIndex = 14;
+            this.formaPagoBindingSource.DataMember = "FormaPago";
+            this.formaPagoBindingSource.DataSource = this.gestionCC;
             // 
-            // cbxTipoVenta
+            // gestionCC
             // 
-            this.cbxTipoVenta.DataSource = this.formaPagoBindingSource;
-            this.cbxTipoVenta.DisplayMember = "descripcionFormaPago";
-            this.cbxTipoVenta.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.cbxTipoVenta.FormattingEnabled = true;
-            this.cbxTipoVenta.Location = new System.Drawing.Point(89, 3);
-            this.cbxTipoVenta.Name = "cbxTipoVenta";
-            this.cbxTipoVenta.Size = new System.Drawing.Size(186, 21);
-            this.cbxTipoVenta.TabIndex = 12;
-            this.cbxTipoVenta.ValueMember = "idFormaPago";
-            // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(3, 0);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(79, 13);
-            this.label3.TabIndex = 13;
-            this.label3.Text = "Forma de Pago";
+            this.gestionCC.DataSetName = "GestionCC";
+            this.gestionCC.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
             // 
             // tableLayoutPanel4
             // 
@@ -163,7 +140,7 @@
             this.tableLayoutPanel4.RowCount = 1;
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel4.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 38F));
-            this.tableLayoutPanel4.Size = new System.Drawing.Size(278, 38);
+            this.tableLayoutPanel4.Size = new System.Drawing.Size(288, 34);
             this.tableLayoutPanel4.TabIndex = 15;
             // 
             // label1
@@ -177,9 +154,9 @@
             // 
             // dtpDesde
             // 
-            this.dtpDesde.Location = new System.Drawing.Point(89, 3);
+            this.dtpDesde.Location = new System.Drawing.Point(92, 3);
             this.dtpDesde.Name = "dtpDesde";
-            this.dtpDesde.Size = new System.Drawing.Size(186, 20);
+            this.dtpDesde.Size = new System.Drawing.Size(193, 20);
             this.dtpDesde.TabIndex = 2;
             // 
             // tableLayoutPanel5
@@ -189,12 +166,12 @@
             this.tableLayoutPanel5.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 71.48289F));
             this.tableLayoutPanel5.Controls.Add(this.label2, 0, 0);
             this.tableLayoutPanel5.Controls.Add(this.dtpHasta, 1, 0);
-            this.tableLayoutPanel5.Location = new System.Drawing.Point(412, 3);
+            this.tableLayoutPanel5.Location = new System.Drawing.Point(402, 3);
             this.tableLayoutPanel5.Name = "tableLayoutPanel5";
             this.tableLayoutPanel5.RowCount = 1;
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
             this.tableLayoutPanel5.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Absolute, 38F));
-            this.tableLayoutPanel5.Size = new System.Drawing.Size(263, 38);
+            this.tableLayoutPanel5.Size = new System.Drawing.Size(277, 34);
             this.tableLayoutPanel5.TabIndex = 16;
             // 
             // label2
@@ -208,24 +185,91 @@
             // 
             // dtpHasta
             // 
-            this.dtpHasta.Location = new System.Drawing.Point(78, 3);
+            this.dtpHasta.Location = new System.Drawing.Point(81, 3);
             this.dtpHasta.Name = "dtpHasta";
-            this.dtpHasta.Size = new System.Drawing.Size(182, 20);
+            this.dtpHasta.Size = new System.Drawing.Size(193, 20);
             this.dtpHasta.TabIndex = 3;
-            // 
-            // gestionCC
-            // 
-            this.gestionCC.DataSetName = "GestionCC";
-            this.gestionCC.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // formaPagoBindingSource
-            // 
-            this.formaPagoBindingSource.DataMember = "FormaPago";
-            this.formaPagoBindingSource.DataSource = this.gestionCC;
             // 
             // formaPagoTableAdapter
             // 
             this.formaPagoTableAdapter.ClearBeforeFill = true;
+            // 
+            // tableLayoutPanel6
+            // 
+            this.tableLayoutPanel6.ColumnCount = 2;
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel6.ColumnStyles.Add(new System.Windows.Forms.ColumnStyle(System.Windows.Forms.SizeType.Percent, 50F));
+            this.tableLayoutPanel6.Controls.Add(this.label4, 0, 0);
+            this.tableLayoutPanel6.Controls.Add(this.chkEfectivo, 1, 0);
+            this.tableLayoutPanel6.Controls.Add(this.chkCtaCte, 1, 1);
+            this.tableLayoutPanel6.Controls.Add(this.chkTarjeta, 1, 2);
+            this.tableLayoutPanel6.Controls.Add(this.chkCheque, 1, 3);
+            this.tableLayoutPanel6.Location = new System.Drawing.Point(402, 43);
+            this.tableLayoutPanel6.Name = "tableLayoutPanel6";
+            this.tableLayoutPanel6.RowCount = 4;
+            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel6.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
+            this.tableLayoutPanel6.Size = new System.Drawing.Size(260, 84);
+            this.tableLayoutPanel6.TabIndex = 17;
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(3, 0);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(79, 13);
+            this.label4.TabIndex = 14;
+            this.label4.Text = "Forma de Pago";
+            // 
+            // chkEfectivo
+            // 
+            this.chkEfectivo.AutoSize = true;
+            this.chkEfectivo.Checked = true;
+            this.chkEfectivo.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkEfectivo.Location = new System.Drawing.Point(133, 3);
+            this.chkEfectivo.Name = "chkEfectivo";
+            this.chkEfectivo.Size = new System.Drawing.Size(65, 15);
+            this.chkEfectivo.TabIndex = 15;
+            this.chkEfectivo.Text = "Efectivo";
+            this.chkEfectivo.UseVisualStyleBackColor = true;
+            // 
+            // chkCtaCte
+            // 
+            this.chkCtaCte.AutoSize = true;
+            this.chkCtaCte.Checked = true;
+            this.chkCtaCte.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkCtaCte.Location = new System.Drawing.Point(133, 24);
+            this.chkCtaCte.Name = "chkCtaCte";
+            this.chkCtaCte.Size = new System.Drawing.Size(105, 15);
+            this.chkCtaCte.TabIndex = 16;
+            this.chkCtaCte.Text = "Cuenta Corriente";
+            this.chkCtaCte.UseVisualStyleBackColor = true;
+            // 
+            // chkTarjeta
+            // 
+            this.chkTarjeta.AutoSize = true;
+            this.chkTarjeta.Checked = true;
+            this.chkTarjeta.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkTarjeta.Location = new System.Drawing.Point(133, 45);
+            this.chkTarjeta.Name = "chkTarjeta";
+            this.chkTarjeta.Size = new System.Drawing.Size(59, 15);
+            this.chkTarjeta.TabIndex = 17;
+            this.chkTarjeta.Text = "Tarjeta";
+            this.chkTarjeta.UseVisualStyleBackColor = true;
+            // 
+            // chkCheque
+            // 
+            this.chkCheque.AutoSize = true;
+            this.chkCheque.Checked = true;
+            this.chkCheque.CheckState = System.Windows.Forms.CheckState.Checked;
+            this.chkCheque.Location = new System.Drawing.Point(133, 66);
+            this.chkCheque.Name = "chkCheque";
+            this.chkCheque.Size = new System.Drawing.Size(63, 15);
+            this.chkCheque.TabIndex = 18;
+            this.chkCheque.Text = "Cheque";
+            this.chkCheque.UseVisualStyleBackColor = true;
             // 
             // FormReporteVentas
             // 
@@ -241,14 +285,14 @@
             this.Load += new System.EventHandler(this.FormReporteVentas_Load);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.tableLayoutPanel2.ResumeLayout(false);
-            this.tableLayoutPanel3.ResumeLayout(false);
-            this.tableLayoutPanel3.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.formaPagoBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gestionCC)).EndInit();
             this.tableLayoutPanel4.ResumeLayout(false);
             this.tableLayoutPanel4.PerformLayout();
             this.tableLayoutPanel5.ResumeLayout(false);
             this.tableLayoutPanel5.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.gestionCC)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.formaPagoBindingSource)).EndInit();
+            this.tableLayoutPanel6.ResumeLayout(false);
+            this.tableLayoutPanel6.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -263,13 +307,16 @@
         private System.Windows.Forms.DateTimePicker dtpHasta;
         private System.Windows.Forms.DateTimePicker dtpDesde;
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.ComboBox cbxTipoVenta;
-        private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel3;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel4;
         private System.Windows.Forms.TableLayoutPanel tableLayoutPanel5;
         private GestionCC gestionCC;
         private System.Windows.Forms.BindingSource formaPagoBindingSource;
         private GestionCCTableAdapters.FormaPagoTableAdapter formaPagoTableAdapter;
+        private System.Windows.Forms.TableLayoutPanel tableLayoutPanel6;
+        private System.Windows.Forms.Label label4;
+        private System.Windows.Forms.CheckBox chkEfectivo;
+        private System.Windows.Forms.CheckBox chkCtaCte;
+        private System.Windows.Forms.CheckBox chkTarjeta;
+        private System.Windows.Forms.CheckBox chkCheque;
     }
 }
