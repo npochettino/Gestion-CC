@@ -798,7 +798,7 @@
             // 
             this.dtpFechaVenta.Location = new System.Drawing.Point(357, 1);
             this.dtpFechaVenta.Name = "dtpFechaVenta";
-            this.dtpFechaVenta.Size = new System.Drawing.Size(200, 21);
+            this.dtpFechaVenta.Size = new System.Drawing.Size(213, 21);
             this.dtpFechaVenta.TabIndex = 5;
             // 
             // lblFechaVenta

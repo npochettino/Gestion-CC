@@ -35,30 +35,30 @@ namespace Presentacion
 
         private void btnEmitirReporte_Click(object sender, EventArgs e)
         {
-            
+
             EmitirReporte();
         }
 
         private void EmitirReporte()
         {
-            
+
             ReportDocument rpt = new ReportDocument();
 
             string ruta = Path.Combine(Application.StartupPath, "ReporteDetalleVenta.rpt");
-            
-            
 
-           
-                rpt.Load(ruta);
-                //rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\ReporteDetalleVenta.rpt");            
-            
-            
+
+
+
+            rpt.Load(ruta);
+            //rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV2.3\Presentacion\ReporteDetalleVenta.rpt");            
+
+
             string desde = dtpDesde.Value.ToString();
             string hasta = dtpHasta.Value.ToString();
-            
-           
 
-            
+
+
+
 
             /// Aca comparo con el primer DataPicker la fecha desde
             ParameterFieldDefinitions crParameterFieldDefinitions1;
@@ -93,32 +93,23 @@ namespace Presentacion
             crParameterFieldDefinition2.ApplyCurrentValues(crParameterValues2);
 
 
-           
 
-            
 
-            
-            rpt.SetDatabaseLogon("saftec","ana");
+
+
+
+            rpt.SetDatabaseLogon("saftec", "ana");
             crystalReportViewer2.ReportSource = rpt;
-            crystalReportViewer2.Refresh(); 
-        
-        }
+            crystalReportViewer2.Refresh();
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            SeleccionarCliente();
-        }
-
-        private void SeleccionarCliente()
-        {
-            FormGrillaClientes GrillaCliente = new FormGrillaClientes();
-            
-            GrillaCliente.ShowDialog();
         }
 
 
 
-        internal void CargarSeleeccion(int IntId_Cliente,string strApellido, string strNombre)
+
+
+
+        internal void CargarSeleeccion(int IntId_Cliente, string strApellido, string strNombre)
         {
             Negocio.ParametrosCliente Parametro = new Negocio.ParametrosCliente();
             string StrApellidoCliente = Parametro.strApellidoCliente;
@@ -128,17 +119,17 @@ namespace Presentacion
             //txtClienteDesde.Text = StrApellidoCliente + " " + StrNombreCliente;
 
             //txtClienteDesde.Update();
-            
+
 
 
             //txtClienteHasta.Text = StrApellidoCliente + " " + StrNombreCliente;
-           // txtClienteHasta.Refresh();
+            // txtClienteHasta.Refresh();
 
 
-           
+
         }
 
-        
+
 
 
 
@@ -149,6 +140,6 @@ namespace Presentacion
             ApellidoCliente = strApellido;
         }
 
-       
+
     }
 }

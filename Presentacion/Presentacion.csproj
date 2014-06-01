@@ -86,189 +86,181 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="AcercaDe.cs">
+    <Compile Include="GestionCCDataSet.cs">
+      <DependentUpon>GestionCCDataSet.xsd</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Principal\AcercaDe.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="AcercaDe.Designer.cs">
+    <Compile Include="Principal\AcercaDe.Designer.cs">
       <DependentUpon>AcercaDe.cs</DependentUpon>
     </Compile>
     <Compile Include="ArticuloTableAdapter.cs" />
     <Compile Include="AuxiliarVenta.cs" />
-    <Compile Include="Clientes.cs">
+    <Compile Include="Detalles\Clientes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Clientes.designer.cs">
+    <Compile Include="Detalles\Clientes.designer.cs">
       <DependentUpon>Clientes.cs</DependentUpon>
     </Compile>
     <Compile Include="Correo.cs" />
-    <Compile Include="FormDetalleVenta.cs">
+    <Compile Include="Detalles\FormDetalleVenta.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormDetalleVenta.Designer.cs">
+    <Compile Include="Detalles\FormDetalleVenta.Designer.cs">
       <DependentUpon>FormDetalleVenta.cs</DependentUpon>
     </Compile>
     <Compile Include="CrystalRules.cs" />
-    <Compile Include="FormABMIngresosEgresos.cs">
+    <Compile Include="ABM\FormABMIngresosEgresos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormABMIngresosEgresos.Designer.cs">
+    <Compile Include="ABM\FormABMIngresosEgresos.Designer.cs">
       <DependentUpon>FormABMIngresosEgresos.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormaPagoCombinada.cs">
+    <Compile Include="Detalles\FormaPagoCombinada.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormaPagoCombinada.Designer.cs">
+    <Compile Include="Detalles\FormaPagoCombinada.Designer.cs">
       <DependentUpon>FormaPagoCombinada.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormReporteDeGastos.cs">
+    <Compile Include="ABM\FormABMGastos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormReporteDeGastos.Designer.cs">
-      <DependentUpon>FormReporteDeGastos.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormABMGastos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormABMGastos.Designer.cs">
+    <Compile Include="ABM\FormABMGastos.Designer.cs">
       <DependentUpon>FormABMGastos.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormCierreCaja.cs">
+    <Compile Include="Caja Diaria\FormCierreCaja.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormCierreCaja.designer.cs">
+    <Compile Include="Caja Diaria\FormCierreCaja.designer.cs">
       <DependentUpon>FormCierreCaja.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormReporteCajaDiaria.cs">
+    <Compile Include="FormReportes\FormReporteArticulos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormReporteCajaDiaria.Designer.cs">
-      <DependentUpon>FormReporteCajaDiaria.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormReporteDetalleVenta.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormReporteDetalleVenta.Designer.cs">
-      <DependentUpon>FormReporteDetalleVenta.cs</DependentUpon>
-    </Compile>
-    <Compile Include="GestionCaja.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="GestionCaja.Designer.cs">
-      <DependentUpon>GestionCaja.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormABMarca.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormABMarca.Designer.cs">
-      <DependentUpon>FormABMarca.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormGrillaClientes.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormGrillaClientes.Designer.cs">
-      <DependentUpon>FormGrillaClientes.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormReportePago.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormReportePago.Designer.cs">
-      <DependentUpon>FormReportePago.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormReportePagosEfectuados.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormReportePagosEfectuados.Designer.cs">
-      <DependentUpon>FormReportePagosEfectuados.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormReporteAuditoriaDeVentas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormReporteAuditoriaDeVentas.Designer.cs">
-      <DependentUpon>FormReporteAuditoriaDeVentas.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormReporteVentas.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormReporteVentas.Designer.cs">
-      <DependentUpon>FormReporteVentas.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormReporteArticulos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormReporteArticulos.Designer.cs">
+    <Compile Include="FormReportes\FormReporteArticulos.Designer.cs">
       <DependentUpon>FormReporteArticulos.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormABMTipoArticulo.cs">
+    <Compile Include="FormReportes\FormReporteAuditoriaDeVentas.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormABMTipoArticulo.Designer.cs">
+    <Compile Include="FormReportes\FormReporteAuditoriaDeVentas.Designer.cs">
+      <DependentUpon>FormReporteAuditoriaDeVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteCajaDiaria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteCajaDiaria.Designer.cs">
+      <DependentUpon>FormReporteCajaDiaria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteDeGastos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteDeGastos.Designer.cs">
+      <DependentUpon>FormReporteDeGastos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteDeSaldos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteDeSaldos.Designer.cs">
+      <DependentUpon>FormReporteDeSaldos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteDetalleVenta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteDetalleVenta.Designer.cs">
+      <DependentUpon>FormReporteDetalleVenta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes\FormReportePago.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes\FormReportePago.Designer.cs">
+      <DependentUpon>FormReportePago.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes\FormReportePagosEfectuados.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes\FormReportePagosEfectuados.Designer.cs">
+      <DependentUpon>FormReportePagosEfectuados.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteVentas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormReportes\FormReporteVentas.Designer.cs">
+      <DependentUpon>FormReporteVentas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Caja Diaria\GestionCaja.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Caja Diaria\GestionCaja.Designer.cs">
+      <DependentUpon>GestionCaja.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\FormABMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\FormABMarca.Designer.cs">
+      <DependentUpon>FormABMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ABM\FormABMTipoArticulo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ABM\FormABMTipoArticulo.Designer.cs">
       <DependentUpon>FormABMTipoArticulo.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormAMVenta.cs">
+    <Compile Include="ABM\FormAMVenta.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormAMVenta.designer.cs">
+    <Compile Include="ABM\FormAMVenta.designer.cs">
       <DependentUpon>FormAMVenta.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormCancelacionVenta.cs">
+    <Compile Include="Detalles\FormPagoCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormCancelacionVenta.Designer.cs">
-      <DependentUpon>FormCancelacionVenta.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormPagoCliente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormPagoCliente.designer.cs">
+    <Compile Include="Detalles\FormPagoCliente.designer.cs">
       <DependentUpon>FormPagoCliente.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormPagosEfectuados.cs">
+    <Compile Include="Detalles\FormPagosEfectuados.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormPagosEfectuados.Designer.cs">
+    <Compile Include="Detalles\FormPagosEfectuados.Designer.cs">
       <DependentUpon>FormPagosEfectuados.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormPrincipal.cs">
+    <Compile Include="Principal\FormPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormPrincipal.designer.cs">
+    <Compile Include="Principal\FormPrincipal.designer.cs">
       <DependentUpon>FormPrincipal.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormReportes.cs">
+    <Compile Include="Principal\FormReportes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormReportes.Designer.cs">
+    <Compile Include="Principal\FormReportes.Designer.cs">
       <DependentUpon>FormReportes.cs</DependentUpon>
     </Compile>
-    <Compile Include="FormVentasCliente.cs">
+    <Compile Include="Detalles\FormVentasCliente.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FormVentasCliente.designer.cs">
+    <Compile Include="Detalles\FormVentasCliente.designer.cs">
       <DependentUpon>FormVentasCliente.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmABMArticulos.cs">
+    <Compile Include="ABM\frmABMArticulos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmABMArticulos.Designer.cs">
+    <Compile Include="ABM\frmABMArticulos.Designer.cs">
       <DependentUpon>frmABMArticulos.cs</DependentUpon>
     </Compile>
-    <Compile Include="frmABMClientes.cs">
+    <Compile Include="ABM\frmABMClientes.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="frmABMClientes.Designer.cs">
+    <Compile Include="ABM\frmABMClientes.Designer.cs">
       <DependentUpon>frmABMClientes.cs</DependentUpon>
     </Compile>
-    <Compile Include="FrmABMusuarios.cs">
+    <Compile Include="ABM\FrmABMusuarios.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="FrmABMusuarios.Designer.cs">
+    <Compile Include="ABM\FrmABMusuarios.Designer.cs">
       <DependentUpon>FrmABMusuarios.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FormReporteDeSaldos.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FormReporteDeSaldos.Designer.cs">
-      <DependentUpon>FormReporteDeSaldos.cs</DependentUpon>
     </Compile>
     <Compile Include="GestionCC.cs">
       <DependentUpon>GestionCC.xsd</DependentUpon>
@@ -284,160 +276,154 @@
       <DesignTime>True</DesignTime>
       <DependentUpon>GestionCCDataSet.xsd</DependentUpon>
     </Compile>
-    <Compile Include="Login.cs">
+    <Compile Include="Principal\Login.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Login.Designer.cs">
+    <Compile Include="Principal\Login.Designer.cs">
       <DependentUpon>Login.cs</DependentUpon>
     </Compile>
     <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="ReporteDeArticulos.cs">
+    <Compile Include="Reportes\ReporteDeArticulos.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReporteDeArticulos.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReporteDeCajaDiaria.cs">
+    <Compile Include="Reportes\ReporteDeCajaDiaria.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReporteDeCajaDiaria.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReporteDeGastos.cs">
+    <Compile Include="Reportes\ReporteDeGastos.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReporteDeGastos.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReporteDePagosEfectuados.cs">
+    <Compile Include="Reportes\ReporteDePagosEfectuados.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReporteDePagosEfectuados.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReporteDetalleVenta1.cs">
+    <Compile Include="Reportes\ReporteDetalleVenta1.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReporteDetalleVenta.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReportedeVentas.cs">
+    <Compile Include="Reportes\ReportedeVentas.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReportedeVentas.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReportedeVentasOperador.cs">
+    <Compile Include="Reportes\ReportedeVentasOperador.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReportedeVentasOperador.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReporteSaldos.cs">
+    <Compile Include="Reportes\ReporteSaldos.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReporteSaldos.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <Compile Include="ReporteVentas.cs">
+    <Compile Include="Reportes\ReporteVentas.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>ReporteVentas.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
-    <EmbeddedResource Include="AcercaDe.resx">
+    <EmbeddedResource Include="Principal\AcercaDe.resx">
       <DependentUpon>AcercaDe.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Clientes.resx">
+    <EmbeddedResource Include="Detalles\Clientes.resx">
       <DependentUpon>Clientes.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormDetalleVenta.resx">
+    <EmbeddedResource Include="Detalles\FormDetalleVenta.resx">
       <DependentUpon>FormDetalleVenta.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormABMIngresosEgresos.resx">
+    <EmbeddedResource Include="ABM\FormABMIngresosEgresos.resx">
       <DependentUpon>FormABMIngresosEgresos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormaPagoCombinada.resx">
+    <EmbeddedResource Include="Detalles\FormaPagoCombinada.resx">
       <DependentUpon>FormaPagoCombinada.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormReporteDeGastos.resx">
-      <DependentUpon>FormReporteDeGastos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormABMGastos.resx">
+    <EmbeddedResource Include="ABM\FormABMGastos.resx">
       <DependentUpon>FormABMGastos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormCierreCaja.resx">
+    <EmbeddedResource Include="Caja Diaria\FormCierreCaja.resx">
       <DependentUpon>FormCierreCaja.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormReporteCajaDiaria.resx">
-      <DependentUpon>FormReporteCajaDiaria.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReporteDetalleVenta.resx">
-      <DependentUpon>FormReporteDetalleVenta.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="GestionCaja.resx">
-      <DependentUpon>GestionCaja.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormABMarca.resx">
-      <DependentUpon>FormABMarca.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormGrillaClientes.resx">
-      <DependentUpon>FormGrillaClientes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReportePago.resx">
-      <DependentUpon>FormReportePago.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReportePagosEfectuados.resx">
-      <DependentUpon>FormReportePagosEfectuados.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReporteAuditoriaDeVentas.resx">
-      <DependentUpon>FormReporteAuditoriaDeVentas.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReporteVentas.resx">
-      <DependentUpon>FormReporteVentas.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReporteArticulos.resx">
+    <EmbeddedResource Include="FormReportes\FormReporteArticulos.resx">
       <DependentUpon>FormReporteArticulos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormABMTipoArticulo.resx">
-      <DependentUpon>FormABMTipoArticulo.cs</DependentUpon>
+    <EmbeddedResource Include="FormReportes\FormReporteAuditoriaDeVentas.resx">
+      <DependentUpon>FormReporteAuditoriaDeVentas.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormAMVenta.resx">
-      <DependentUpon>FormAMVenta.cs</DependentUpon>
+    <EmbeddedResource Include="FormReportes\FormReporteCajaDiaria.resx">
+      <DependentUpon>FormReporteCajaDiaria.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormCancelacionVenta.resx">
-      <DependentUpon>FormCancelacionVenta.cs</DependentUpon>
+    <EmbeddedResource Include="FormReportes\FormReporteDeGastos.resx">
+      <DependentUpon>FormReporteDeGastos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="FormPagoCliente.resx">
-      <DependentUpon>FormPagoCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormPagosEfectuados.resx">
-      <DependentUpon>FormPagosEfectuados.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormPrincipal.resx">
-      <DependentUpon>FormPrincipal.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReportes.resx">
-      <DependentUpon>FormReportes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormVentasCliente.resx">
-      <DependentUpon>FormVentasCliente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmABMArticulos.resx">
-      <DependentUpon>frmABMArticulos.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="frmABMClientes.resx">
-      <DependentUpon>frmABMClientes.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrmABMusuarios.resx">
-      <DependentUpon>FrmABMusuarios.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FormReporteDeSaldos.resx">
+    <EmbeddedResource Include="FormReportes\FormReporteDeSaldos.resx">
       <DependentUpon>FormReporteDeSaldos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Login.resx">
+    <EmbeddedResource Include="FormReportes\FormReporteDetalleVenta.resx">
+      <DependentUpon>FormReporteDetalleVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportes\FormReportePago.resx">
+      <DependentUpon>FormReportePago.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportes\FormReportePagosEfectuados.resx">
+      <DependentUpon>FormReportePagosEfectuados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormReportes\FormReporteVentas.resx">
+      <DependentUpon>FormReporteVentas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Caja Diaria\GestionCaja.resx">
+      <DependentUpon>GestionCaja.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\FormABMarca.resx">
+      <DependentUpon>FormABMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\FormABMTipoArticulo.resx">
+      <DependentUpon>FormABMTipoArticulo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\FormAMVenta.resx">
+      <DependentUpon>FormAMVenta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalles\FormPagoCliente.resx">
+      <DependentUpon>FormPagoCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalles\FormPagosEfectuados.resx">
+      <DependentUpon>FormPagosEfectuados.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FormPrincipal.resx">
+      <DependentUpon>FormPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\FormReportes.resx">
+      <DependentUpon>FormReportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Detalles\FormVentasCliente.resx">
+      <DependentUpon>FormVentasCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\frmABMArticulos.resx">
+      <DependentUpon>frmABMArticulos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\frmABMClientes.resx">
+      <DependentUpon>frmABMClientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ABM\FrmABMusuarios.resx">
+      <DependentUpon>FrmABMusuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\licenses.licx" />
@@ -451,39 +437,39 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="ReporteDeArticulos.rpt">
+    <EmbeddedResource Include="Reportes\ReporteDeArticulos.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteDeArticulos.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteDeCajaDiaria.rpt">
+    <EmbeddedResource Include="Reportes\ReporteDeCajaDiaria.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteDeCajaDiaria.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteDeGastos.rpt">
+    <EmbeddedResource Include="Reportes\ReporteDeGastos.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteDeGastos.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteDePagosEfectuados.rpt">
+    <EmbeddedResource Include="Reportes\ReporteDePagosEfectuados.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteDePagosEfectuados.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteDetalleVenta.rpt">
+    <EmbeddedResource Include="Reportes\ReporteDetalleVenta.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteDetalleVenta1.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReportedeVentas.rpt">
+    <EmbeddedResource Include="Reportes\ReportedeVentas.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReportedeVentas.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReportedeVentasOperador.rpt">
+    <EmbeddedResource Include="Reportes\ReportedeVentasOperador.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReportedeVentasOperador.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteSaldos.rpt">
+    <EmbeddedResource Include="Reportes\ReporteSaldos.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteSaldos.cs</LastGenOutput>
     </EmbeddedResource>
-    <EmbeddedResource Include="ReporteVentas.rpt">
+    <EmbeddedResource Include="Reportes\ReporteVentas.rpt">
       <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
       <LastGenOutput>ReporteVentas.cs</LastGenOutput>
     </EmbeddedResource>
@@ -571,6 +557,7 @@
   <ItemGroup>
     <None Include="Resources\LogoSempaIT.jpg" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it.
        Other similar extension points exist, see Microsoft.Common.targets.

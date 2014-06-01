@@ -51,7 +51,7 @@ namespace Presentacion
             if (Privilegio == "Administrador")
             {
                 //rpt.Load(ruta);
-                rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\ReporteVentas.rpt");
+                rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\Reportes\ReporteVentas.rpt");
             }
             else
             {
@@ -64,9 +64,9 @@ namespace Presentacion
 
             int[] FormasPago = new int[4];
 
-           
-            
-            
+
+
+
             if (chkEfectivo.Checked)
             {
                 FormasPago[0] = 4;
@@ -139,10 +139,10 @@ namespace Presentacion
             //ParameterFieldDefinition crParameterFieldDefinition5;
             //ParameterValues crParameterValues5 = new ParameterValues();
             //ParameterDiscreteValue crParameterDiscreteValue5 = new ParameterDiscreteValue();
-           
+
 
             //crParameterDiscreteValue5.Value = FormasPago;
-            
+
             //crParameterFieldDefinitions5 = rpt.DataDefinition.ParameterFields;
             //crParameterFieldDefinition5 = crParameterFieldDefinitions5["FormaPago"];
             //crParameterValues5 = crParameterFieldDefinition5.CurrentValues;
@@ -161,17 +161,7 @@ namespace Presentacion
 
         }
 
-        private void pictureBox1_Click(object sender, EventArgs e)
-        {
-            SeleccionarCliente();
-        }
 
-        private void SeleccionarCliente()
-        {
-            FormGrillaClientes GrillaCliente = new FormGrillaClientes();
-
-            GrillaCliente.ShowDialog();
-        }
 
 
 
