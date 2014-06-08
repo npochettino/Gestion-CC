@@ -125,6 +125,7 @@
             this.txtContrasena.Anchor = System.Windows.Forms.AnchorStyles.None;
             this.txtContrasena.Location = new System.Drawing.Point(167, 165);
             this.txtContrasena.Name = "txtContrasena";
+            this.txtContrasena.Properties.PasswordChar = '*';
             this.txtContrasena.Size = new System.Drawing.Size(200, 20);
             this.txtContrasena.TabIndex = 5;
             this.txtContrasena.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtContrasena_KeyPress);
