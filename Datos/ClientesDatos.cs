@@ -179,5 +179,35 @@ namespace Datos
 
            return dsSaldoCliente;
        }
+
+       public DataTable SelectOne(int IDCliente)
+       {
+           try
+           {
+               SqlConnection conexion = new SqlConnection(strCadenaDeConexion);
+               conexion.Open();
+
+               SqlCommand sqlCommand = new SqlCommand();
+               sqlCommand.Connection = new SqlConnection(strCadenaDeConexion);
+               sqlCommand.Connection.Open();
+               sqlCommand.CommandType = CommandType.StoredProcedure;
+               sqlCommand.CommandText = "sp_Cliente_SelectOne";
+
+               sqlCommand.Parameters.Add("@pIDCliente", SqlDbType.Int).Value = IDCliente;
+
+               SqlDataReader MyReader = sqlCommand.ExecuteReader();
+               conexion.Close();
+
+               DataTable oDataTable = new DataTable();
+               oDataTable.Load(MyReader);
+
+               return oDataTable;
+           }
+           catch (Exception Ex)
+           {
+               Exception excepcionManejada = new Exception("Error al Modificar un Cliente", Ex);
+               throw excepcionManejada;
+           }
+       }
    }
 }

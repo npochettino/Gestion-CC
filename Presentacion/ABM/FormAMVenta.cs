@@ -8,6 +8,8 @@ using System.Windows.Forms;
 using DevExpress.XtraEditors;
 using DevExpress.XtraGrid.Views.Grid;
 using System.Net.Mail;
+using Datos;
+
 namespace Presentacion
 {
     public partial class FormAMVenta : DevExpress.XtraEditors.XtraForm
@@ -249,45 +251,29 @@ namespace Presentacion
         {
             AsignarValores();
 
-
-
             if (rdbCombinado.Checked == true)
             {
-
                 if (Combinado)
                 {
                     if (ValidarDatosDelForm())
                     {
-
                         Agregadodelaventa();
                         RestablecerPantallaVenta();
                     }
-
-
                 }
                 else
                 {
 
                 }
-
-
             }
-
             else
             {
                 if (ValidarDatosDelForm())
                 {
-
-
                     Agregadodelaventa();
                     RestablecerPantallaVenta();
                 }
             }
-
-
-
-
-
         }
 
         private void Agregadodelaventa()
@@ -319,39 +305,46 @@ namespace Presentacion
             this.articuloParaVentaTableAdapter1.Fill(this.gestionCC.ArticuloParaVenta);
 
             EnviarCorreo();
-
         }
 
         private void EnviarCorreo()
         {
-            try
+            DataTable oDataTable = new ConfigDatos().Select();
+
+            if (Convert.ToBoolean(oDataTable.Rows[0]["AlwaysSend"]))
+                EnvioMail(oDataTable);
+            else
+                if (Convert.ToBoolean(oDataTable.Rows[0]["AlwaysAsk"])&&XtraMessageBox.Show("Desea enviar un mail por la venta efectuada?","Pregunta",MessageBoxButtons.OKCancel,MessageBoxIcon.Question)==DialogResult.OK)
+                    EnvioMail(oDataTable);
+        }
+
+        private void EnvioMail(DataTable oDataTable)    
+        {
+            Cursor.Current = Cursors.WaitCursor;
+
+            DataTable oDataTableCliente = new ClientesDatos().SelectOne(idCliente);
+
+            if (!String.IsNullOrEmpty(oDataTableCliente.Rows[0]["Email"].ToString()))
+                Mailer.SendMail(oDataTable.Rows[0]["MailFrom"].ToString(), new ClientesDatos().SelectOne(idCliente).Rows[0]["Email"].ToString(), MailBody(), oDataTable.Rows[0]["Password"].ToString(), "Gracias por su compra!");
+            else
+                XtraMessageBox.Show("El mail no pudo ser enviado debido a que no tiene asignado ningun Email", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+            Cursor.Current = Cursors.Default;
+        }
+
+        private string MailBody()
+        {
+            string Body= new ConfigDatos().Select().Rows[0]["DefaultText"].ToString() + "\n";
+
+            for (int i = 0; i < dgvVenta.MainView.RowCount; i++)
             {
-
-                Presentacion.Correo Cr = new Correo();
-
-                MailMessage mnsj = new MailMessage();
-
-                mnsj.Subject = "Agradecemos tu Venta";
-
-                mnsj.To.Add(new MailAddress("martindiguilio@hotmail.com"));
-
-                mnsj.From = new MailAddress("martin.diguilio@ecloudsolutions.com", "Martin Diguilio");
-
-                ///* Si deseamos Adjuntar algún archivo*/
-                //mnsj.Attachments.Add(new Attachment("C:\\archivo.pdf"));
-
-                mnsj.Body = "  Mensaje de Prueba \n\n Enviado desde C#\n\n *VER EL ARCHIVO ADJUNTO*";
-
-                /* Enviar */
-                Cr.MandarCorreo(mnsj);
-               
-
-                MessageBox.Show("El Mail se ha Enviado Correctamente", "Listo!!", MessageBoxButtons.OK, MessageBoxIcon.Asterisk);
+                AuxiliarVenta oAuxiliarVenta = (AuxiliarVenta)this.gridView1.GetRow(i);
+                Body += "Descripcion: " + oAuxiliarVenta.descripcion + ", Cantidad: " + oAuxiliarVenta.cantidad.ToString() + ", Precio: $" + oAuxiliarVenta.precio.ToString() + ", Descuento: " + (oAuxiliarVenta.descuento).ToString() + "%, Precio Final: " + (float.Parse(oAuxiliarVenta.precio)*float.Parse(oAuxiliarVenta.cantidad.ToString())*(float.Parse((oAuxiliarVenta.descuento/100).ToString()))).ToString()  +"\n";
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.ToString());
-            }
+
+            Body += "Importe Total: $" + CalcularImporte().ToString();
+
+            return Body;
         }
 
         private void AsignarValores()
@@ -443,7 +436,6 @@ namespace Presentacion
 
         private void AgregarVenta()
         {
-
             DateTime DtmFechaVenta = dtpFechaVenta.Value;
             bool bolCtaCte = rdbCtaCte.Checked;
 
@@ -451,12 +443,7 @@ namespace Presentacion
             float fltImportaTotalVenta = 0;
 
             float fltImporteCostoVenta = 0;
-
-
-
-
             //Primero agrego la venta en la tabla venta para luego agregar cada item venta y calcular el monto total de la venta.
-
 
             CadVentas.AgregarVenta(idCliente, DtmFechaVenta, Efectivo, Cheque, Tarjeta, CuentaCorriente);
 
@@ -482,9 +469,6 @@ namespace Presentacion
 
                 fltImportaTotalVenta = float.Parse(Math.Round(fltImportaTotalVenta + ((fltPrecio * intCantidad) - ((fltPrecio * intCantidad) * Descuento / 100)), 2).ToString());
 
-
-
-
                 //Sumar el costo de la venta
                 fltImporteCostoVenta = fltImporteCostoVenta + (fltCosto * intCantidad);
 
@@ -492,7 +476,6 @@ namespace Presentacion
                 string Estado = "A";
 
                 ActualizarStock(intIdArticulo, intCantidad, Estado);
-
             }
             //Actualizo el importe total de venta,el saldo del cliente y el costo de la venta
             CadVentas.ActualizarImporteTotal(fltImportaTotalVenta, IdCliente, fltImporteCostoVenta, CuentaCorriente);
@@ -503,8 +486,6 @@ namespace Presentacion
             CuentaCorriente = 0;
             Tarjeta = 0;
             Cheque = 0;
-
-
         }
 
         private float CalcularImporte()

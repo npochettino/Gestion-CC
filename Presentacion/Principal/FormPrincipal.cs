@@ -177,13 +177,9 @@ namespace Presentacion
             acercaDe.Show();
         }
 
-       
-
-
-     
-
-        
-
-       
+        private void tlItemConfig_ItemClick(object sender, TileItemEventArgs e)
+        {
+            new Config().ShowDialog();
+        }       
     }
 }

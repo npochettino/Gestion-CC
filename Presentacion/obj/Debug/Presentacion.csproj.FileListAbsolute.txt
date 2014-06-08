@@ -1452,7 +1452,6 @@ C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Present
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormReporteDetalleVenta.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.GestionCaja.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormABMarca.resources
-C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormGrillaClientes.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormReportePago.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormReportePagosEfectuados.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormReporteAuditoriaDeVentas.resources
@@ -1460,7 +1459,6 @@ C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Present
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormReporteArticulos.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormABMTipoArticulo.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormAMVenta.resources
-C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormCancelacionVenta.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormCiereCaja.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormPagosEfectuados.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormPrincipal.resources
@@ -1517,3 +1515,6 @@ C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\bin\D
 C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\bin\Debug\Datos.pdb
 C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.exe
 C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.Config.resources
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormDetalleVenta.resources
+C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.MensajeEspera.resources

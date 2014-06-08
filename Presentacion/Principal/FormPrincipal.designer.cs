@@ -70,9 +70,9 @@
             this.tileItem9 = new DevExpress.XtraEditors.TileItem();
             this.tileItem10 = new DevExpress.XtraEditors.TileItem();
             this.tileItem11 = new DevExpress.XtraEditors.TileItem();
+            this.tlItemConfig = new DevExpress.XtraEditors.TileItem();
             this.helpProvider1 = new System.Windows.Forms.HelpProvider();
             this.defaultLookAndFeel1 = new DevExpress.LookAndFeel.DefaultLookAndFeel(this.components);
-            this.tlItemConfig = new DevExpress.XtraEditors.TileItem();
             ((System.ComponentModel.ISupportInitialize)(this.barManager1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -417,10 +417,6 @@
             this.tileItem11.Name = "tileItem11";
             this.tileItem11.Visible = false;
             // 
-            // helpProvider1
-            // 
-            this.helpProvider1.HelpNamespace = "Path.Combine(Application.StartupPath, \"ayuda.chm\")";
-            // 
             // tlItemConfig
             // 
             this.tlItemConfig.AppearanceItem.Normal.Font = new System.Drawing.Font("Tahoma", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
@@ -433,6 +429,11 @@
             this.tlItemConfig.Elements.Add(tileItemElement13);
             this.tlItemConfig.Id = 21;
             this.tlItemConfig.Name = "tlItemConfig";
+            this.tlItemConfig.ItemClick += new DevExpress.XtraEditors.TileItemClickEventHandler(this.tlItemConfig_ItemClick);
+            // 
+            // helpProvider1
+            // 
+            this.helpProvider1.HelpNamespace = "Path.Combine(Application.StartupPath, \"ayuda.chm\")";
             // 
             // FormPrincipal
             // 

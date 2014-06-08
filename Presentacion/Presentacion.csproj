@@ -86,9 +86,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Config.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Config.Designer.cs">
+      <DependentUpon>Config.cs</DependentUpon>
+    </Compile>
     <Compile Include="GestionCCDataSet.cs">
       <DependentUpon>GestionCCDataSet.xsd</DependentUpon>
       <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Mailer.cs" />
+    <Compile Include="MensajeEspera.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MensajeEspera.Designer.cs">
+      <DependentUpon>MensajeEspera.cs</DependentUpon>
     </Compile>
     <Compile Include="Principal\AcercaDe.cs">
       <SubType>Form</SubType>
@@ -339,6 +352,12 @@
       <DependentUpon>ReporteVentas.rpt</DependentUpon>
       <SubType>Component</SubType>
     </Compile>
+    <EmbeddedResource Include="Config.resx">
+      <DependentUpon>Config.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MensajeEspera.resx">
+      <DependentUpon>MensajeEspera.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Principal\AcercaDe.resx">
       <DependentUpon>AcercaDe.cs</DependentUpon>
     </EmbeddedResource>
@@ -534,6 +553,10 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\Datos\Datos.csproj">
+      <Project>{AD85D4D1-863F-4064-B79F-1E0EBC23546B}</Project>
+      <Name>Datos</Name>
+    </ProjectReference>
     <ProjectReference Include="..\Negocio\Negocio.csproj">
       <Project>{02EFFA68-1F14-4118-A368-60656D922F5B}</Project>
       <Name>Negocio</Name>
