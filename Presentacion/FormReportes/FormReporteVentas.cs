@@ -35,10 +35,57 @@ namespace Presentacion
 
         private void btnEmitirReporte_Click(object sender, EventArgs e)
         {
-
+            FilterString();
             EmitirReporte();
 
         //    AplicarFiltro();
+        }
+
+
+        private string FilterString()
+        {
+            string Filter = string.Empty;
+            bool Flag = false;
+
+            if (chkCheque.Checked)
+            {
+                Filter += "3";
+                Flag = true;
+            }
+
+            if (chkCtaCte.Checked)
+            {
+                if (Flag)
+                    Filter += ", 1";
+                else
+                {
+                    Filter += "1";
+                    Flag = true;
+                }
+            }
+
+            if (chkEfectivo.Checked)
+                if (Flag)
+                    Filter += ", 4";
+                else
+                {
+                    Filter += "4";
+                    Flag = true;
+                }
+
+            if (chkTarjeta.Checked)
+                if (Flag)
+                    Filter += ", 2";
+                else
+                {
+                    Filter += "2";
+                    Flag = true;
+                }
+
+            if (Filter.Equals(string.Empty))
+                Filter = "-1";
+
+            return Filter;
         }
 
         private void AplicarFiltro()
