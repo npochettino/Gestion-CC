@@ -42,6 +42,12 @@ namespace Datos
 
         }
 
+
+
+
+
+
+
         public void AgregarVenta(int idCliente, DateTime DtmFechaVenta, float Efectivo, float Cheque, float Tarjeta, float CuentaCorriente)
         {
             int Id_Venta = 0;

@@ -1518,3 +1518,5 @@ C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\obj\D
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.Config.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.FormDetalleVenta.resources
 C:\Users\PC\Documents\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.MensajeEspera.resources
+C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.Config.resources
+C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\obj\Debug\Presentacion.MensajeEspera.resources

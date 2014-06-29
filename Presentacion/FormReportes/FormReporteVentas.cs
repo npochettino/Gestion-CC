@@ -37,6 +37,13 @@ namespace Presentacion
         {
 
             EmitirReporte();
+
+        //    AplicarFiltro();
+        }
+
+        private void AplicarFiltro()
+        {
+            throw new NotImplementedException();
         }
 
         private void EmitirReporte()
@@ -44,7 +51,7 @@ namespace Presentacion
 
             ReportDocument rpt = new ReportDocument();
 
-            string ruta = Path.Combine(Application.StartupPath, "ReportedeVentas.rpt");
+            string ruta = Path.Combine(Application.StartupPath, "ReporteVentas.rpt");
             string ruta2 = Path.Combine(Application.StartupPath, "ReportedeVentasOperador.rpt");
 
 
@@ -61,38 +68,6 @@ namespace Presentacion
 
             string desde = dtpDesde.Value.ToString();
             string hasta = dtpHasta.Value.ToString();
-
-            int[] FormasPago = new int[4];
-
-
-
-
-            if (chkEfectivo.Checked)
-            {
-                FormasPago[0] = 4;
-                FormasPago[1] = 4;
-                FormasPago[2] = 4;
-                FormasPago[3] = 4;
-            }
-            if (chkCtaCte.Checked)
-            {
-
-                FormasPago[1] = 1;
-
-            }
-
-            if (chkTarjeta.Checked)
-            {
-                FormasPago[2] = 2;
-            }
-
-            if (chkCheque.Checked)
-            {
-                FormasPago[3] = 3;
-
-            }
-
-
 
 
 
@@ -134,23 +109,25 @@ namespace Presentacion
 
 
 
-            ///Aca comparo el Combobox para filtrar por FormaPago
-            //ParameterFieldDefinitions crParameterFieldDefinitions5;
-            //ParameterFieldDefinition crParameterFieldDefinition5;
-            //ParameterValues crParameterValues5 = new ParameterValues();
-            //ParameterDiscreteValue crParameterDiscreteValue5 = new ParameterDiscreteValue();
+            //Aca comparo el Combobox para filtrar por FormaPago
+            ParameterFieldDefinitions crParameterFieldDefinitions5;
+            ParameterFieldDefinition crParameterFieldDefinition5;
+            ParameterValues crParameterValues5 = new ParameterValues();
+            ParameterDiscreteValue crParameterDiscreteValue5 = new ParameterDiscreteValue();
 
 
-            //crParameterDiscreteValue5.Value = FormasPago;
+            crParameterDiscreteValue5.Value = "1,2,3,4";
+            
+            crParameterFieldDefinitions5 = rpt.DataDefinition.ParameterFields;
+            crParameterFieldDefinition5 = crParameterFieldDefinitions5["FormaPago"];
+            crParameterValues5 = crParameterFieldDefinition5.CurrentValues;
 
-            //crParameterFieldDefinitions5 = rpt.DataDefinition.ParameterFields;
-            //crParameterFieldDefinition5 = crParameterFieldDefinitions5["FormaPago"];
-            //crParameterValues5 = crParameterFieldDefinition5.CurrentValues;
+            crParameterValues5.Clear();
+            crParameterValues5.Add(crParameterDiscreteValue5);
+            crParameterFieldDefinition5.ApplyCurrentValues(crParameterValues5);
 
-            //crParameterValues5.Clear();
-            //crParameterValues5.Add(crParameterDiscreteValue5);
-            //crParameterFieldDefinition5.ApplyCurrentValues(crParameterValues5);
 
+             //GestionCC datos  = ConsultaReporteVentas.ReporteVenta();
 
 
             CrystalRules Conexion = new CrystalRules();
@@ -201,6 +178,16 @@ namespace Presentacion
             //    // TODO: esta línea de código carga datos en la tabla 'gestionCC.FormaPago' Puede moverla o quitarla según sea necesario.
             //    this.formaPagoTableAdapter.Fill(this.gestionCC.FormaPago);
             //    cbxTipoVenta.Text = "Todo";
+        }
+
+        private void tableLayoutPanel2_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void crystalReportViewer2_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

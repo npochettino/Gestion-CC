@@ -110,6 +110,11 @@ namespace Presentacion
 
         private void btnGuardarTipoArticulo_Click(object sender, EventArgs e)
         {
+            
+            
+            //esto es lo que cambie para testear
+            
+            
             GuardarDatos();
         }
 

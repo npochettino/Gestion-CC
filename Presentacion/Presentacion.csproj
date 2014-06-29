@@ -92,6 +92,7 @@
     <Compile Include="Config.Designer.cs">
       <DependentUpon>Config.cs</DependentUpon>
     </Compile>
+    <Compile Include="ConsultaReporteVentas.cs" />
     <Compile Include="GestionCCDataSet.cs">
       <DependentUpon>GestionCCDataSet.xsd</DependentUpon>
       <SubType>Component</SubType>
