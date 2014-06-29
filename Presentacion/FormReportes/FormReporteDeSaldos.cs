@@ -29,9 +29,9 @@ namespace Presentacion
         {
             string ruta = Path.Combine(Application.StartupPath, "ReporteSaldos.rpt");
             ReportDocument rpt = new ReportDocument();
-            rpt.Load(ruta);
+          rpt.Load(ruta);
 
-            //rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.05\Presentacion\ReporteSaldos.rpt");
+          //  rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\Reportes\ReporteSaldos.rpt");
 
 
             CrystalRules Conexion = new CrystalRules();

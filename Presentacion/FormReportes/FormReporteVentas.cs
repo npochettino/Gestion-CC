@@ -17,6 +17,7 @@ namespace Presentacion
         string NombreCliente;
         string ApellidoCliente;
         int IdCliente;
+        string Filter;
 
         string privilegio;
 
@@ -38,47 +39,47 @@ namespace Presentacion
             FilterString();
             EmitirReporte();
 
-        //    AplicarFiltro();
+ 
         }
 
 
         private string FilterString()
         {
-            string Filter = string.Empty;
+            Filter = string.Empty;
             bool Flag = false;
 
             if (chkCheque.Checked)
             {
-                Filter += "3";
+                Filter += "Cheque";
                 Flag = true;
             }
 
             if (chkCtaCte.Checked)
             {
                 if (Flag)
-                    Filter += ", 1";
+                    Filter += ", Cuenta Corriente";
                 else
                 {
-                    Filter += "1";
+                    Filter += "CuentaCorriente";
                     Flag = true;
                 }
             }
 
             if (chkEfectivo.Checked)
                 if (Flag)
-                    Filter += ", 4";
+                    Filter += ", Efectivo";
                 else
                 {
-                    Filter += "4";
+                    Filter += "Efectivo";
                     Flag = true;
                 }
 
             if (chkTarjeta.Checked)
                 if (Flag)
-                    Filter += ", 2";
+                    Filter += ", Tarjeta";
                 else
                 {
-                    Filter += "2";
+                    Filter += "Tarjeta";
                     Flag = true;
                 }
 
@@ -88,10 +89,7 @@ namespace Presentacion
             return Filter;
         }
 
-        private void AplicarFiltro()
-        {
-            throw new NotImplementedException();
-        }
+       
 
         private void EmitirReporte()
         {
@@ -104,13 +102,13 @@ namespace Presentacion
 
             if (Privilegio == "Administrador")
             {
-                //rpt.Load(ruta);
-                rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\Reportes\ReporteVentas.rpt");
+                rpt.Load(ruta);
+                //rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\Reportes\ReporteVentas.rpt");
             }
             else
             {
                 rpt.Load(ruta2);
-                //rpt.Load(@"C:\Users\PC\Desktop\CtaCteV1.05\Presentacion\ReportedeVentasOperador.rpt");            
+                //rpt.Load(@"C:\Users\marti_000\Documents\gits\SempaIT\GestionCC\gestioncc\Presentacion\Reportes\ReporteVentasOperador.rpt");
             }
 
             string desde = dtpDesde.Value.ToString();
@@ -163,7 +161,7 @@ namespace Presentacion
             ParameterDiscreteValue crParameterDiscreteValue5 = new ParameterDiscreteValue();
 
 
-            crParameterDiscreteValue5.Value = "1,2,3,4";
+            crParameterDiscreteValue5.Value = Filter;
             
             crParameterFieldDefinitions5 = rpt.DataDefinition.ParameterFields;
             crParameterFieldDefinition5 = crParameterFieldDefinitions5["FormaPago"];

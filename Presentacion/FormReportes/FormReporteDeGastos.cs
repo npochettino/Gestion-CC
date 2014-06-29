@@ -31,11 +31,11 @@ namespace Presentacion
             string desde = dtpFechaDesde.Value.ToShortDateString();
             string hasta = dtpFechaHasta.Value.ToShortDateString();
 
-            //string ruta = Path.Combine(Application.StartupPath, "ReporteDeGastos.rpt");
+            string ruta = Path.Combine(Application.StartupPath, "ReporteDeGastos.rpt");
             ReportDocument rpt = new ReportDocument();
-            //rpt.Load(ruta);
+            rpt.Load(ruta);
 
-            rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\ReporteDeGastos.rpt");
+            //rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.3\Presentacion\ReporteDeGastos.rpt");
 
 
 

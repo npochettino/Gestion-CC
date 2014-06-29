@@ -30,9 +30,9 @@ namespace Presentacion
             int Cantidad = Convert.ToInt32(txtCantidadStock.Text);
             string ruta = Path.Combine(Application.StartupPath, "ReporteDeArticulos.rpt");
             ReportDocument rpt = new ReportDocument();
-            //rpt.Load(ruta);
+            rpt.Load(ruta);
 
-            rpt.Load(@"E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\ReporteDeArticulos.rpt");
+           // rpt.Load(@"E:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\Versiones Codigo\CtaCteV2.7.6\Presentacion\ReporteDeArticulos.rpt");
 
             /// Aca comparo por la cantidad de stock filtrado
             ParameterFieldDefinitions crParameterFieldDefinitions1;

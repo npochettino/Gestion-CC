@@ -27,11 +27,11 @@ namespace Presentacion
 
         private void EmitirReporte()
         {
-            //string ruta = Path.Combine(Application.StartupPath, "ReporteTurnos.rpt");
+            string ruta = Path.Combine(Application.StartupPath, "ReporteTurnos.rpt");
             ReportDocument rpt = new ReportDocument();
-            //rpt.Load(ruta);
+            rpt.Load(ruta);
 
-            rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\ReporteSaldos.rpt");
+            //rpt.Load(@"D:\Martin\Desarrollos\Propios\C#\GestionCC (TrabajoLocal)\CtaCteV1.01\Presentacion\ReporteSaldos.rpt");
 
             
             rpt.SetDatabaseLogon("saftec", "ana");
