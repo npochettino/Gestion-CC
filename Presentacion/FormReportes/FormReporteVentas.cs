@@ -60,7 +60,7 @@ namespace Presentacion
                     Filter += ", Cuenta Corriente";
                 else
                 {
-                    Filter += "CuentaCorriente";
+                    Filter += "Cuenta Corriente";
                     Flag = true;
                 }
             }
